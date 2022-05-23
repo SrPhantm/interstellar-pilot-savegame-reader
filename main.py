@@ -20,6 +20,7 @@ save['factions'] = reader.readFactions()
 save['patrol_paths'] = reader.readPatrolPaths()
 save['faction_relations'] = reader.readFactionRelations()
 save['faction_opinions'] = reader.readFactionOpinions()
+save['units'] = reader.readUnits()
 
 print(save)
 

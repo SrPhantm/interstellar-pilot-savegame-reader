@@ -251,5 +251,73 @@ class SaveReader(Reader):
         for _ in range(count):
             opinions.append(self._readFactionOpinion())
         return opinions
-            
-    
+
+    def _readUnitCargo(self):
+        cargo = {}
+        cargo['class'] = self.readInt32()
+        cargo['quantity'] = self.readInt32()
+        cargo['expires'] = self.readBoolean()
+        cargo['expiry_time'] = self.readDouble()
+        return cargo
+
+    def _readShipTrader(self):
+        ships = []
+        count = self.readInt32()
+        for _ in range(count):
+            ship = {}
+            ship['sell_multiplier'] = self.readSingle()
+            ship['class'] = self.readInt32()
+            ships.append(ship)
+        return ships
+
+    def _readDamageType(self):
+        damage = {}
+        damage['damage'] = self.readSingle()
+        damage['mining_damage'] = self.readSingle()
+        damage['sheild_damage_type'] = self.readInt32()
+        return damage
+
+    def _readProjectileData(self):
+        projectile = {}
+        projectile['source_unit'] = self.readInt32()
+        projectile['target_unit'] = self.readInt32()
+        projectile['fire_time'] = self.readDouble()
+        projectile['remaining_movement'] = self.readSingle()
+        projectile['damage_type'] = self._readDamageType()
+        return projectile
+
+    def _readUnit(self):
+        unit = {}
+        unit['id'] = self.readInt32()
+        unit['class'] = self.readInt32()
+        unit['sector'] = self.readInt32()
+        unit['position'] = self.readVector3()
+        unit['rotation'] = self.readVector4()
+        unit['faction'] = self.readInt32()
+        unit['rp_provision'] = self.readInt32()
+
+        unit['is_cargo'] = self.readBoolean()
+        if unit['is_cargo']:
+            self._readUnitCargo()
+
+        unit['is_debris'] = self.readBoolean()
+        if unit['is_debris']:
+            # Unused, this should never happen
+            raise Exception('Invalid Data')
+        
+        unit['is_ship_trader'] = self.readBoolean()
+        if unit['is_ship_trader']:
+            unit['ship_trader_data'] = self._readShipTrader()
+
+        projectile_ids = [30100, 30200, 30300, 30400, 29100, 30600, 29350, 30800, 30820, 30840, 30860, 30880, 30900, 30920, 30940, ]
+        if unit['class'] in projectile_ids:
+            unit['projectile_data'] = self._readProjectileData()
+        
+        return unit
+
+    def readUnits(self) -> list:
+        units = []
+        count = self.readInt32()
+        for _ in range(count):
+            units.append(self._readUnit())
+        return units

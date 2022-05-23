@@ -48686,5 +48686,9457 @@
       "other_faction": 100000,
       "opinion": -0.18001914024353027
     }
+  ],
+  "units": [
+    {
+      "id": 100008,
+      "class": 20000,
+      "sector": 10,
+      "position": [
+        -25691.263671875,
+        0.0,
+        -25244.83984375
+      ],
+      "rotation": [
+        0.0,
+        0.45123136043548584,
+        0.0,
+        0.8924070596694946
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100009,
+      "class": 20000,
+      "sector": 10,
+      "position": [
+        -21994.01953125,
+        0.0,
+        -23378.677734375
+      ],
+      "rotation": [
+        0.0,
+        -0.804943323135376,
+        0.0,
+        0.5933517217636108
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100010,
+      "class": 24000,
+      "sector": 10,
+      "position": [
+        -24337.255859375,
+        0.0,
+        -24544.40234375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100011,
+      "class": 20000,
+      "sector": 10,
+      "position": [
+        -23622.646484375,
+        0.0,
+        -20872.68359375
+      ],
+      "rotation": [
+        0.0,
+        0.9981980919837952,
+        0.0,
+        -0.060005564242601395
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100012,
+      "class": 20000,
+      "sector": 10,
+      "position": [
+        -22150.05078125,
+        0.0,
+        -24993.82421875
+      ],
+      "rotation": [
+        0.0,
+        -0.5132009387016296,
+        0.0,
+        0.8582684993743896
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100013,
+      "class": 24000,
+      "sector": 10,
+      "position": [
+        -23308.04296875,
+        0.0,
+        -23903.984375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100014,
+      "class": 200000,
+      "sector": 10,
+      "position": [
+        -26510.0,
+        0.0,
+        -22049.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100015,
+      "class": 200000,
+      "sector": 10,
+      "position": [
+        -25168.0,
+        0.0,
+        -25826.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100016,
+      "class": 200000,
+      "sector": 10,
+      "position": [
+        -22558.0,
+        0.0,
+        -23013.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100017,
+      "class": 100000,
+      "sector": 20,
+      "position": [
+        -7977.97998046875,
+        -4.300000190734863,
+        -24002.900390625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100018,
+      "class": 23000,
+      "sector": 20,
+      "position": [
+        -8347.0,
+        0.0,
+        -23292.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 1000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100019,
+      "class": 42000,
+      "sector": 20,
+      "position": [
+        -8429.5869140625,
+        0.0,
+        -23783.48828125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 2000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100020,
+      "class": 18000,
+      "sector": 20,
+      "position": [
+        -8738.4501953125,
+        0.0,
+        -23270.87890625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100021,
+      "class": 17000,
+      "sector": 20,
+      "position": [
+        -8909.3349609375,
+        -2.8646390438079834,
+        -23895.10546875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100022,
+      "class": 44100,
+      "sector": 20,
+      "position": [
+        -8700.0,
+        0.0,
+        -24436.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 2000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100023,
+      "class": 37205,
+      "sector": 20,
+      "position": [
+        -9432.0,
+        0.0,
+        -23859.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100024,
+      "class": 37205,
+      "sector": 20,
+      "position": [
+        -9406.0,
+        0.0,
+        -23642.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100025,
+      "class": 20000,
+      "sector": 20,
+      "position": [
+        -10050.783203125,
+        0.0,
+        -23548.017578125
+      ],
+      "rotation": [
+        0.0,
+        0.7794964909553528,
+        0.0,
+        0.6264066100120544
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100026,
+      "class": 20000,
+      "sector": 30,
+      "position": [
+        9691.2646484375,
+        0.0,
+        -22755.16015625
+      ],
+      "rotation": [
+        0.0,
+        0.8924070596694946,
+        0.0,
+        -0.45123136043548584
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100027,
+      "class": 44000,
+      "sector": 30,
+      "position": [
+        8614.6806640625,
+        0.0,
+        -23324.791015625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 2000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100028,
+      "class": 46000,
+      "sector": 30,
+      "position": [
+        8485.654296875,
+        0.0,
+        -23026.38671875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100029,
+      "class": 31000,
+      "sector": 30,
+      "position": [
+        8605.494140625,
+        0.0,
+        -24191.701171875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100030,
+      "class": 31000,
+      "sector": 30,
+      "position": [
+        8058.0810546875,
+        0.0,
+        -23780.501953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100031,
+      "class": 20010,
+      "sector": 30,
+      "position": [
+        7607.16015625,
+        0.0,
+        -25313.23046875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100032,
+      "class": 21000,
+      "sector": 30,
+      "position": [
+        9132.3056640625,
+        0.0,
+        -23770.5234375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100033,
+      "class": 23000,
+      "sector": 30,
+      "position": [
+        8574.849609375,
+        0.0,
+        -23689.08203125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 1000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100034,
+      "class": 100030,
+      "sector": 30,
+      "position": [
+        7979.89990234375,
+        0.0,
+        -23991.80078125
+      ],
+      "rotation": [
+        0.08289485424757004,
+        0.0,
+        0.0,
+        -0.9965583086013794
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100035,
+      "class": 44100,
+      "sector": 30,
+      "position": [
+        8139.0,
+        0.0,
+        -23344.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 2000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100036,
+      "class": 37205,
+      "sector": 30,
+      "position": [
+        8842.0,
+        0.0,
+        -23689.08203125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100037,
+      "class": 37205,
+      "sector": 30,
+      "position": [
+        8361.0,
+        0.0,
+        -23602.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100038,
+      "class": 20010,
+      "sector": 40,
+      "position": [
+        -24700.0,
+        0.0,
+        -7250.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100039,
+      "class": 23000,
+      "sector": 40,
+      "position": [
+        -23645.935546875,
+        0.0,
+        -8642.9423828125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 1000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100040,
+      "class": 22000,
+      "sector": 40,
+      "position": [
+        -23475.423828125,
+        0.0,
+        -8599.2353515625
+      ],
+      "rotation": [
+        0.0,
+        -0.7557924389839172,
+        0.0,
+        0.6548112630844116
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100041,
+      "class": 37205,
+      "sector": 40,
+      "position": [
+        -23329.0,
+        0.0,
+        -7587.7001953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100042,
+      "class": 3000,
+      "sector": 40,
+      "position": [
+        -23370.58203125,
+        0.0,
+        -7545.8544921875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 1000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100043,
+      "class": 20000,
+      "sector": 40,
+      "position": [
+        -24251.568359375,
+        0.0,
+        -10084.876953125
+      ],
+      "rotation": [
+        0.0,
+        0.060005564242601395,
+        0.0,
+        0.9981980919837952
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100044,
+      "class": 20000,
+      "sector": 40,
+      "position": [
+        -22042.306640625,
+        0.0,
+        -8759.8916015625
+      ],
+      "rotation": [
+        0.0,
+        -0.5648658871650696,
+        0.0,
+        0.8251827359199524
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100045,
+      "class": 37205,
+      "sector": 40,
+      "position": [
+        -24218.0,
+        0.0,
+        -5098.00634765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100046,
+      "class": 37000,
+      "sector": 40,
+      "position": [
+        -24727.083984375,
+        0.0,
+        -5098.00634765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100000,
+      "rp_provision": 750,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100047,
+      "class": 37205,
+      "sector": 40,
+      "position": [
+        -23955.80078125,
+        0.0,
+        -8039.39990234375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100048,
+      "class": 32000,
+      "sector": 40,
+      "position": [
+        -24000.0,
+        0.0,
+        -8000.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 1000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100049,
+      "class": 37205,
+      "sector": 40,
+      "position": [
+        -24021.099609375,
+        0.0,
+        -8042.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100050,
+      "class": 44100,
+      "sector": 40,
+      "position": [
+        -23152.0,
+        0.0,
+        -8117.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 2000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100051,
+      "class": 200000,
+      "sector": 40,
+      "position": [
+        -24975.0,
+        0.0,
+        -7360.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100052,
+      "class": 200000,
+      "sector": 40,
+      "position": [
+        -22839.0,
+        0.0,
+        -8127.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100053,
+      "class": 37205,
+      "sector": 50,
+      "position": [
+        -8223.0,
+        0.0,
+        -7513.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100054,
+      "class": 32000,
+      "sector": 50,
+      "position": [
+        -8157.2080078125,
+        0.0,
+        -7577.5234375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 4000,
+      "rp_provision": 1000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100055,
+      "class": 24000,
+      "sector": 50,
+      "position": [
+        -9410.013671875,
+        0.0,
+        -8000.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100056,
+      "class": 10000,
+      "sector": 50,
+      "position": [
+        -7488.3486328125,
+        0.0,
+        -8422.62109375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100057,
+      "class": 37205,
+      "sector": 50,
+      "position": [
+        -7526.39990234375,
+        0.0,
+        -8386.7998046875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100058,
+      "class": 20000,
+      "sector": 50,
+      "position": [
+        -9849.94921875,
+        0.0,
+        -7006.17578125
+      ],
+      "rotation": [
+        0.0,
+        0.8582684993743896,
+        0.0,
+        0.5132009387016296
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100059,
+      "class": 20000,
+      "sector": 50,
+      "position": [
+        -9963.9072265625,
+        0.0,
+        -8743.685546875
+      ],
+      "rotation": [
+        0.0,
+        0.5682711005210876,
+        0.0,
+        0.8228414058685303
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100060,
+      "class": 24000,
+      "sector": 50,
+      "position": [
+        -7251.0830078125,
+        0.0,
+        -8000.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100061,
+      "class": 20000,
+      "sector": 50,
+      "position": [
+        -7768.93896484375,
+        0.0,
+        -5912.75048828125
+      ],
+      "rotation": [
+        0.0,
+        0.9984809756278992,
+        0.0,
+        -0.05509818717837334
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100062,
+      "class": 20000,
+      "sector": 50,
+      "position": [
+        -5949.216796875,
+        0.0,
+        -8451.9814453125
+      ],
+      "rotation": [
+        0.0,
+        -0.6264066100120544,
+        0.0,
+        0.7794964909553528
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100063,
+      "class": 200010,
+      "sector": 50,
+      "position": [
+        -8000.0,
+        0.0,
+        -8000.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100064,
+      "class": 200010,
+      "sector": 50,
+      "position": [
+        -6365.0,
+        0.0,
+        -7255.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100065,
+      "class": 200010,
+      "sector": 50,
+      "position": [
+        -6050.0,
+        0.0,
+        -11139.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100066,
+      "class": 37000,
+      "sector": 60,
+      "position": [
+        11670.0,
+        0.0,
+        -6222.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 5000,
+      "rp_provision": 750,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100067,
+      "class": 37205,
+      "sector": 60,
+      "position": [
+        11264.0,
+        0.0,
+        -6271.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100068,
+      "class": 24000,
+      "sector": 60,
+      "position": [
+        8000.0,
+        0.0,
+        -6310.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100069,
+      "class": 19000,
+      "sector": 60,
+      "position": [
+        8376.0263671875,
+        0.0,
+        -8926.6669921875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100070,
+      "class": 23000,
+      "sector": 60,
+      "position": [
+        7865.25537109375,
+        0.0,
+        -8354.32421875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 1000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100071,
+      "class": 32000,
+      "sector": 60,
+      "position": [
+        8226.0,
+        0.0,
+        -4363.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 7000,
+      "rp_provision": 1000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100072,
+      "class": 4000,
+      "sector": 60,
+      "position": [
+        7848.2001953125,
+        0.0,
+        -9187.1552734375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100073,
+      "class": 43000,
+      "sector": 60,
+      "position": [
+        7422.064453125,
+        0.0,
+        -8617.51953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 2000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100074,
+      "class": 4000,
+      "sector": 60,
+      "position": [
+        7896.4619140625,
+        0.0,
+        -8781.658203125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100075,
+      "class": 20000,
+      "sector": 60,
+      "position": [
+        5953.36181640625,
+        0.0,
+        -8470.396484375
+      ],
+      "rotation": [
+        0.0,
+        0.6228970885276794,
+        0.0,
+        0.7823038101196289
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100076,
+      "class": 24000,
+      "sector": 60,
+      "position": [
+        8000.0,
+        0.0,
+        -7395.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100077,
+      "class": 44100,
+      "sector": 60,
+      "position": [
+        7300.0,
+        0.0,
+        -9123.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 2000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100078,
+      "class": 37205,
+      "sector": 60,
+      "position": [
+        7418.0,
+        0.0,
+        -8000.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100079,
+      "class": 200000,
+      "sector": 60,
+      "position": [
+        8290.4501953125,
+        0.0,
+        -4363.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100080,
+      "class": 100000,
+      "sector": 60,
+      "position": [
+        8019.91015625,
+        -4.0,
+        -8008.60009765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100081,
+      "class": 25000,
+      "sector": 70,
+      "position": [
+        -23636.46484375,
+        0.0,
+        8045.3857421875
+      ],
+      "rotation": [
+        0.0,
+        0.9080378413200378,
+        0.0,
+        -0.4188881516456604
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100082,
+      "class": 39000,
+      "sector": 70,
+      "position": [
+        -23552.099609375,
+        0.0,
+        8045.3857421875
+      ],
+      "rotation": [
+        0.0,
+        0.9080378413200378,
+        0.0,
+        -0.4188881516456604
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100083,
+      "class": 20010,
+      "sector": 70,
+      "position": [
+        -26607.548828125,
+        0.0,
+        11159.0087890625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100084,
+      "class": 20000,
+      "sector": 70,
+      "position": [
+        -22036.091796875,
+        0.0,
+        8743.685546875
+      ],
+      "rotation": [
+        0.0,
+        -0.822841465473175,
+        0.0,
+        0.5682710409164429
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100085,
+      "class": 37205,
+      "sector": 70,
+      "position": [
+        -23446.0,
+        0.0,
+        7832.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100086,
+      "class": 37000,
+      "sector": 70,
+      "position": [
+        -23455.67578125,
+        0.0,
+        7774.65869140625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 5000,
+      "rp_provision": 750,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100087,
+      "class": 200000,
+      "sector": 80,
+      "position": [
+        -8923.0,
+        0.0,
+        10063.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100088,
+      "class": 20000,
+      "sector": 80,
+      "position": [
+        -10005.98046875,
+        0.0,
+        7378.67822265625
+      ],
+      "rotation": [
+        0.0,
+        0.5933517813682556,
+        0.0,
+        0.804943323135376
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100089,
+      "class": 20000,
+      "sector": 80,
+      "position": [
+        -10936.541015625,
+        0.0,
+        9139.8369140625
+      ],
+      "rotation": [
+        0.0,
+        0.8251827359199524,
+        0.0,
+        0.5648658871650696
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100090,
+      "class": 32000,
+      "sector": 80,
+      "position": [
+        -8000.0,
+        0.0,
+        8000.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 4000,
+      "rp_provision": 1000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100091,
+      "class": 37205,
+      "sector": 80,
+      "position": [
+        -8070.2001953125,
+        0.0,
+        8062.89990234375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100092,
+      "class": 10000,
+      "sector": 80,
+      "position": [
+        -8256.41796875,
+        0.0,
+        7531.111328125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100093,
+      "class": 20000,
+      "sector": 80,
+      "position": [
+        -5953.36181640625,
+        0.0,
+        8470.396484375
+      ],
+      "rotation": [
+        0.0,
+        -0.7823038101196289,
+        0.0,
+        0.6228970885276794
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100094,
+      "class": 200000,
+      "sector": 80,
+      "position": [
+        -7006.0,
+        0.0,
+        6785.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100095,
+      "class": 200000,
+      "sector": 80,
+      "position": [
+        -11169.0,
+        0.0,
+        6921.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100096,
+      "class": 20000,
+      "sector": 80,
+      "position": [
+        -8231.060546875,
+        0.0,
+        5912.75048828125
+      ],
+      "rotation": [
+        0.0,
+        0.05509818717837334,
+        0.0,
+        0.9984809756278992
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100097,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -26510.0,
+        0.0,
+        -22049.0
+      ],
+      "rotation": [
+        0.622076690196991,
+        0.1648464947938919,
+        0.6414243578910828,
+        0.41763758659362793
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100098,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -26816.140625,
+        0.0,
+        -21872.25
+      ],
+      "rotation": [
+        -0.25660890340805054,
+        0.3196938931941986,
+        -0.7061249017715454,
+        0.577351987361908
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100099,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -26203.859375,
+        0.0,
+        -21872.25
+      ],
+      "rotation": [
+        0.5828512907028198,
+        0.4466257393360138,
+        -0.6329766511917114,
+        0.24525582790374756
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100100,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -26203.859375,
+        0.0,
+        -22225.75
+      ],
+      "rotation": [
+        -0.48002251982688904,
+        -0.4772678017616272,
+        0.45673462748527527,
+        0.5772238373756409
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100101,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -26510.0,
+        0.0,
+        -22402.5
+      ],
+      "rotation": [
+        0.02180827036499977,
+        -0.05430636182427406,
+        0.6202889680862427,
+        0.7821872234344482
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100102,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -26816.140625,
+        0.0,
+        -22225.75
+      ],
+      "rotation": [
+        0.5314072966575623,
+        0.025587910786271095,
+        0.5011416673660278,
+        0.6825016736984253
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100103,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -26510.0,
+        0.0,
+        -21695.5
+      ],
+      "rotation": [
+        -0.7635428309440613,
+        0.20971789956092834,
+        0.5449634194374084,
+        0.2757457494735718
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100104,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -26510.0,
+        0.0,
+        -22756.0
+      ],
+      "rotation": [
+        0.591999351978302,
+        0.3041248917579651,
+        0.7463390231132507,
+        0.004791323095560074
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100105,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -25168.0,
+        0.0,
+        -25826.0
+      ],
+      "rotation": [
+        -0.33203500509262085,
+        -0.06804347783327103,
+        0.6494444012641907,
+        0.6806943416595459
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100106,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -25474.140625,
+        0.0,
+        -25649.25
+      ],
+      "rotation": [
+        0.5995679497718811,
+        -0.589821457862854,
+        0.07329540699720383,
+        0.5359634757041931
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100107,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -24861.859375,
+        0.0,
+        -25649.25
+      ],
+      "rotation": [
+        -0.5797978639602661,
+        -0.2923559546470642,
+        0.46784400939941406,
+        0.5995701551437378
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100108,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -25474.140625,
+        0.0,
+        -26002.75
+      ],
+      "rotation": [
+        0.2583378255367279,
+        -0.6272648572921753,
+        0.6324936747550964,
+        0.3738344609737396
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100109,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -25168.0,
+        0.0,
+        -25472.5
+      ],
+      "rotation": [
+        0.06539919972419739,
+        -0.39392295479774475,
+        0.0890079140663147,
+        0.9124830365180969
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100110,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -22558.0,
+        0.0,
+        -23013.0
+      ],
+      "rotation": [
+        0.5984256267547607,
+        0.7372238039970398,
+        -0.17635592818260193,
+        0.25939637422561646
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100111,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -22558.0,
+        0.0,
+        -22659.5
+      ],
+      "rotation": [
+        0.20873230695724487,
+        0.3968381881713867,
+        0.6306865215301514,
+        0.6333916187286377
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100112,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -22251.859375,
+        0.0,
+        -22836.25
+      ],
+      "rotation": [
+        0.6794106960296631,
+        0.19420471787452698,
+        0.7047746181488037,
+        0.06307464838027954
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100113,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -22251.859375,
+        0.0,
+        -23189.75
+      ],
+      "rotation": [
+        0.21065090596675873,
+        0.2904742658138275,
+        0.8693912625312805,
+        0.339720219373703
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100114,
+      "class": 2000,
+      "sector": 10,
+      "position": [
+        -22864.140625,
+        0.0,
+        -22836.25
+      ],
+      "rotation": [
+        0.15156635642051697,
+        -0.6380612254142761,
+        -0.5342856049537659,
+        0.5333333015441895
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100115,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -24975.0,
+        0.0,
+        -7360.0
+      ],
+      "rotation": [
+        0.11805831640958786,
+        -0.786139726638794,
+        -0.5229477286338806,
+        0.3075260818004608
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100116,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -24975.0,
+        0.0,
+        -7713.5
+      ],
+      "rotation": [
+        0.5471886992454529,
+        0.3926049470901489,
+        -0.34235864877700806,
+        0.655161440372467
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100117,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -24975.0,
+        0.0,
+        -7006.5
+      ],
+      "rotation": [
+        0.09667788445949554,
+        0.18422922492027283,
+        0.024989649653434753,
+        0.97779780626297
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100118,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -25281.140625,
+        0.0,
+        -7536.75
+      ],
+      "rotation": [
+        0.5502676367759705,
+        0.43384215235710144,
+        -0.059379905462265015,
+        0.7109575271606445
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100119,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -24668.859375,
+        0.0,
+        -7536.75
+      ],
+      "rotation": [
+        0.7010907530784607,
+        0.4484062194824219,
+        0.4476693272590637,
+        0.32710227370262146
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100120,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -25281.140625,
+        0.0,
+        -7183.25
+      ],
+      "rotation": [
+        0.2171357423067093,
+        0.779710054397583,
+        0.1274755448102951,
+        0.573283851146698
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100121,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -22839.0,
+        0.0,
+        -8127.0
+      ],
+      "rotation": [
+        0.5989223718643188,
+        0.53399258852005,
+        -0.2582383155822754,
+        0.5380120873451233
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100122,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -22839.0,
+        0.0,
+        -7773.5
+      ],
+      "rotation": [
+        0.6487572193145752,
+        0.7531144618988037,
+        0.08097434788942337,
+        0.07332009822130203
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100123,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -22532.859375,
+        0.0,
+        -7950.25
+      ],
+      "rotation": [
+        0.7324963212013245,
+        -0.043889936059713364,
+        0.34217119216918945,
+        0.5868916511535645
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100124,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -22532.859375,
+        0.0,
+        -8303.75
+      ],
+      "rotation": [
+        0.17861904203891754,
+        0.956649899482727,
+        -0.2237541377544403,
+        0.05338836833834648
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100125,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -22839.0,
+        0.0,
+        -8480.5
+      ],
+      "rotation": [
+        0.2034144401550293,
+        0.3412345051765442,
+        0.3287699222564697,
+        0.8567916750907898
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100126,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -23451.279296875,
+        0.0,
+        -7773.5
+      ],
+      "rotation": [
+        0.6269692778587341,
+        0.5753788948059082,
+        0.0750933364033699,
+        0.5198169946670532
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100127,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -22839.0,
+        0.0,
+        -8834.0
+      ],
+      "rotation": [
+        0.5570411086082458,
+        0.4521610736846924,
+        0.4155193567276001,
+        0.5591058731079102
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100128,
+      "class": 2000,
+      "sector": 40,
+      "position": [
+        -22839.0,
+        0.0,
+        -7420.0
+      ],
+      "rotation": [
+        0.31113114953041077,
+        -0.5510985851287842,
+        -0.7198039889335632,
+        0.2852543294429779
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100129,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -8000.0,
+        0.0,
+        -8000.0
+      ],
+      "rotation": [
+        0.1958152800798416,
+        0.64116370677948,
+        0.5521922707557678,
+        0.4956302046775818
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100130,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -7693.85986328125,
+        0.0,
+        -8176.75
+      ],
+      "rotation": [
+        -0.058198925107717514,
+        -0.7443118691444397,
+        0.5483035445213318,
+        0.3767971396446228
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100131,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -8000.0,
+        0.0,
+        -8353.5
+      ],
+      "rotation": [
+        -0.31687065958976746,
+        -0.5985113978385925,
+        0.4121096432209015,
+        0.6095430850982666
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100132,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -8306.1396484375,
+        0.0,
+        -8176.75
+      ],
+      "rotation": [
+        0.3264959752559662,
+        0.2702823579311371,
+        0.30059733986854553,
+        0.8543940186500549
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100133,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -8306.1396484375,
+        0.0,
+        -7823.25
+      ],
+      "rotation": [
+        0.4855840504169464,
+        -0.8437722325325012,
+        -0.14791420102119446,
+        0.1742928922176361
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100134,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -7693.85986328125,
+        0.0,
+        -7823.25
+      ],
+      "rotation": [
+        -0.011990833096206188,
+        -0.2706648111343384,
+        0.7962859869003296,
+        0.5408561825752258
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100135,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -8000.0,
+        0.0,
+        -7293.0
+      ],
+      "rotation": [
+        -0.6798399686813354,
+        -0.07006435096263885,
+        -0.49453651905059814,
+        0.536975085735321
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100136,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -8000.0,
+        0.0,
+        -8707.0
+      ],
+      "rotation": [
+        -0.35687002539634705,
+        -0.6430015563964844,
+        0.2105988711118698,
+        0.6440815329551697
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100137,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -8612.2802734375,
+        0.0,
+        -7646.5
+      ],
+      "rotation": [
+        0.27662160992622375,
+        0.5863885879516602,
+        0.6902797818183899,
+        0.3211585283279419
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100138,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -8612.2802734375,
+        0.0,
+        -8353.5
+      ],
+      "rotation": [
+        0.3354576826095581,
+        -0.6911553144454956,
+        -0.5288975238800049,
+        0.3606104254722595
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100139,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6365.0,
+        0.0,
+        -7255.0
+      ],
+      "rotation": [
+        -0.733275294303894,
+        -0.29500409960746765,
+        0.5721868276596069,
+        0.21881993114948273
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100140,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6058.85986328125,
+        0.0,
+        -7078.25
+      ],
+      "rotation": [
+        -0.869683563709259,
+        -0.263579785823822,
+        0.41732877492904663,
+        0.0036031969357281923
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100141,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6671.14013671875,
+        0.0,
+        -7078.25
+      ],
+      "rotation": [
+        -0.003795161610469222,
+        -0.229868084192276,
+        0.3792365491390228,
+        0.8962845206260681
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100142,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6365.0,
+        0.0,
+        -7608.5
+      ],
+      "rotation": [
+        -0.6199725866317749,
+        -0.6428734064102173,
+        0.32102009654045105,
+        0.3151094615459442
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100143,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6365.0,
+        0.0,
+        -6901.5
+      ],
+      "rotation": [
+        0.19607660174369812,
+        -0.864158034324646,
+        0.283918559551239,
+        0.3662993311882019
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100144,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6058.85986328125,
+        0.0,
+        -7431.75
+      ],
+      "rotation": [
+        0.7368429899215698,
+        -0.12431648373603821,
+        0.6616314053535461,
+        0.062062107026576996
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100145,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6671.14013671875,
+        0.0,
+        -7431.75
+      ],
+      "rotation": [
+        -0.4998491704463959,
+        0.7545678615570068,
+        -0.21870779991149902,
+        0.36461639404296875
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100146,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6050.0,
+        0.0,
+        -11139.0
+      ],
+      "rotation": [
+        -0.6234720349311829,
+        -0.4502747058868408,
+        0.6333529353141785,
+        0.08601975440979004
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100147,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6356.14013671875,
+        0.0,
+        -11315.75
+      ],
+      "rotation": [
+        -0.08886328339576721,
+        0.6137334704399109,
+        -0.7268822193145752,
+        0.29508793354034424
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100148,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6356.14013671875,
+        0.0,
+        -10962.25
+      ],
+      "rotation": [
+        0.389867901802063,
+        -0.36305296421051025,
+        0.7093481421470642,
+        0.4615418612957001
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100149,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6050.0,
+        0.0,
+        -11492.5
+      ],
+      "rotation": [
+        -0.6973794102668762,
+        0.29169294238090515,
+        0.18423175811767578,
+        0.6282005906105042
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100150,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -5743.85986328125,
+        0.0,
+        -10962.25
+      ],
+      "rotation": [
+        0.6994865536689758,
+        0.5493292808532715,
+        0.42924147844314575,
+        0.1571871042251587
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100151,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6050.0,
+        0.0,
+        -10785.5
+      ],
+      "rotation": [
+        0.6191375255584717,
+        0.5411685109138489,
+        -0.5683068037033081,
+        0.028857657685875893
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100152,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -5743.85986328125,
+        0.0,
+        -11315.75
+      ],
+      "rotation": [
+        0.5337622165679932,
+        -0.4233182668685913,
+        -0.7314612865447998,
+        0.029393691569566727
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100153,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -6662.2802734375,
+        0.0,
+        -10785.5
+      ],
+      "rotation": [
+        0.4783584177494049,
+        -0.047105975449085236,
+        -0.8583744764328003,
+        0.17929750680923462
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100154,
+      "class": 1000,
+      "sector": 50,
+      "position": [
+        -5437.72021484375,
+        0.0,
+        -10785.5
+      ],
+      "rotation": [
+        -0.02630200982093811,
+        -0.7339893579483032,
+        -0.601505696773529,
+        0.3142591416835785
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100155,
+      "class": 2000,
+      "sector": 60,
+      "position": [
+        8596.58984375,
+        0.0,
+        -4539.75
+      ],
+      "rotation": [
+        0.5903065204620361,
+        -0.40418291091918945,
+        0.6784101724624634,
+        0.1671351045370102
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100156,
+      "class": 2000,
+      "sector": 60,
+      "position": [
+        7984.31005859375,
+        0.0,
+        -4186.25
+      ],
+      "rotation": [
+        0.8044607639312744,
+        0.47641101479530334,
+        -0.2398238331079483,
+        0.26145756244659424
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100157,
+      "class": 2000,
+      "sector": 60,
+      "position": [
+        8290.4501953125,
+        0.0,
+        -4009.5
+      ],
+      "rotation": [
+        -0.5096821784973145,
+        -0.7049678564071655,
+        0.4195869565010071,
+        0.2592126429080963
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100158,
+      "class": 2000,
+      "sector": 60,
+      "position": [
+        8290.4501953125,
+        0.0,
+        -4716.5
+      ],
+      "rotation": [
+        -0.6106151938438416,
+        -0.6337689161300659,
+        -0.06539671868085861,
+        0.4703289866447449
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100159,
+      "class": 2000,
+      "sector": 60,
+      "position": [
+        8596.58984375,
+        0.0,
+        -4186.25
+      ],
+      "rotation": [
+        0.5490158796310425,
+        -0.3682461678981781,
+        -0.536515474319458,
+        0.5245259404182434
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100160,
+      "class": 2000,
+      "sector": 60,
+      "position": [
+        7984.31005859375,
+        0.0,
+        -4539.75
+      ],
+      "rotation": [
+        0.6098597049713135,
+        -0.41105917096138,
+        0.40900829434394836,
+        0.5401978492736816
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100161,
+      "class": 2000,
+      "sector": 60,
+      "position": [
+        8290.4501953125,
+        0.0,
+        -5070.0
+      ],
+      "rotation": [
+        -0.09493100643157959,
+        -0.9556849002838135,
+        -0.14398875832557678,
+        0.23858287930488586
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100162,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -8923.0,
+        0.0,
+        10063.0
+      ],
+      "rotation": [
+        0.8365497589111328,
+        0.06551522761583328,
+        0.4654407501220703,
+        0.2815265357494354
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100163,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -8616.8603515625,
+        0.0,
+        9886.25
+      ],
+      "rotation": [
+        0.45366424322128296,
+        0.6775819659233093,
+        -0.5552294254302979,
+        0.1636815071105957
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100164,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -9229.1396484375,
+        0.0,
+        10239.75
+      ],
+      "rotation": [
+        -0.08368121087551117,
+        0.832234799861908,
+        -0.5413506031036377,
+        0.08557035773992538
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100165,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -8923.0,
+        0.0,
+        10416.5
+      ],
+      "rotation": [
+        0.5670320987701416,
+        0.5108920931816101,
+        -0.508795440196991,
+        0.3982350528240204
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100166,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -9229.1396484375,
+        0.0,
+        9886.25
+      ],
+      "rotation": [
+        -0.766981303691864,
+        -0.1148022711277008,
+        -0.5497552156448364,
+        0.3103698194026947
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100167,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -8923.0,
+        0.0,
+        9709.5
+      ],
+      "rotation": [
+        0.901313304901123,
+        -0.3790012300014496,
+        -0.10528053343296051,
+        0.1814069151878357
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100168,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -8616.8603515625,
+        0.0,
+        10239.75
+      ],
+      "rotation": [
+        -0.20249256491661072,
+        -0.6193735599517822,
+        0.7582885026931763,
+        0.01928216964006424
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100169,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -8310.7197265625,
+        0.0,
+        10416.5
+      ],
+      "rotation": [
+        0.4796280860900879,
+        -0.40283507108688354,
+        -0.4484184980392456,
+        0.6376532316207886
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100170,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -7006.0,
+        0.0,
+        6785.0
+      ],
+      "rotation": [
+        -0.26413777470588684,
+        0.5100072622299194,
+        0.5590511560440063,
+        0.597984790802002
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100171,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -7312.14013671875,
+        0.0,
+        6961.75
+      ],
+      "rotation": [
+        0.27222901582717896,
+        0.6297363638877869,
+        0.6496899724006653,
+        0.3274545669555664
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100172,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -7312.14013671875,
+        0.0,
+        6608.25
+      ],
+      "rotation": [
+        -0.2259436994791031,
+        0.0204826220870018,
+        0.5057423710823059,
+        0.8323187828063965
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100173,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -6699.85986328125,
+        0.0,
+        6961.75
+      ],
+      "rotation": [
+        -0.23060359060764313,
+        0.2595345377922058,
+        0.4005332291126251,
+        0.8479605317115784
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100174,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -7006.0,
+        0.0,
+        7138.5
+      ],
+      "rotation": [
+        0.18274134397506714,
+        0.09827782213687897,
+        0.9040349125862122,
+        0.3737218379974365
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100175,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -6699.85986328125,
+        0.0,
+        6608.25
+      ],
+      "rotation": [
+        0.08922668546438217,
+        -0.6178211569786072,
+        0.4643767774105072,
+        0.6282434463500977
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100176,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -7006.0,
+        0.0,
+        6431.5
+      ],
+      "rotation": [
+        -0.13040423393249512,
+        -0.5370224714279175,
+        0.5847512483596802,
+        0.5938582420349121
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100177,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -6393.72021484375,
+        0.0,
+        7138.5
+      ],
+      "rotation": [
+        -0.48415902256965637,
+        -0.7947946786880493,
+        0.23206482827663422,
+        0.2829088568687439
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100178,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -11169.0,
+        0.0,
+        6921.0
+      ],
+      "rotation": [
+        -0.5274994969367981,
+        -0.3438149094581604,
+        0.5950011014938354,
+        0.49950915575027466
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100179,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -10862.8603515625,
+        0.0,
+        6744.25
+      ],
+      "rotation": [
+        0.03534559905529022,
+        0.6028410196304321,
+        0.7578743100166321,
+        0.2469007819890976
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100180,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -11169.0,
+        0.0,
+        7274.5
+      ],
+      "rotation": [
+        0.4183456301689148,
+        0.6565589904785156,
+        0.6102697849273682,
+        0.14658774435520172
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100181,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -11475.1396484375,
+        0.0,
+        6744.25
+      ],
+      "rotation": [
+        -0.559032678604126,
+        0.28968992829322815,
+        -0.765509843826294,
+        0.1325027346611023
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100182,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -11169.0,
+        0.0,
+        6567.5
+      ],
+      "rotation": [
+        0.45014455914497375,
+        0.6750122904777527,
+        -0.42741575837135315,
+        0.3988032042980194
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100183,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -11475.1396484375,
+        0.0,
+        7097.75
+      ],
+      "rotation": [
+        0.36700814962387085,
+        0.5719761252403259,
+        -0.6545090079307556,
+        0.3313100039958954
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100184,
+      "class": 2000,
+      "sector": 80,
+      "position": [
+        -10862.8603515625,
+        0.0,
+        7097.75
+      ],
+      "rotation": [
+        0.526865541934967,
+        -0.5177985429763794,
+        0.6027700304985046,
+        0.3016054034233093
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100185,
+      "class": 4000,
+      "sector": 30,
+      "position": [
+        7736.23779296875,
+        0.0,
+        -23687.083984375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1200,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100186,
+      "class": 37205,
+      "sector": 30,
+      "position": [
+        7801.64306640625,
+        0.0,
+        -23757.912109375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1200,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100187,
+      "class": 37206,
+      "sector": 30,
+      "position": [
+        7833.21533203125,
+        0.0,
+        -23608.130859375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1200,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100188,
+      "class": 10000,
+      "sector": 20,
+      "position": [
+        -7940.783203125,
+        0.0,
+        -23678.580078125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 3001,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100189,
+      "class": 37206,
+      "sector": 20,
+      "position": [
+        -7881.64306640625,
+        0.0,
+        -23618.20703125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 3001,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100190,
+      "class": 37206,
+      "sector": 20,
+      "position": [
+        -7866.62060546875,
+        0.0,
+        -23702.193359375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 3001,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100191,
+      "class": 37205,
+      "sector": 60,
+      "position": [
+        8286.7412109375,
+        0.0,
+        -4434.52392578125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100192,
+      "class": 37206,
+      "sector": 60,
+      "position": [
+        8236.611328125,
+        0.0,
+        -4496.30712890625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100193,
+      "class": 37206,
+      "sector": 50,
+      "position": [
+        -8093.1669921875,
+        0.0,
+        -7652.6708984375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100194,
+      "class": 37206,
+      "sector": 80,
+      "position": [
+        -8033.9482421875,
+        0.0,
+        8102.96240234375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100195,
+      "class": 37206,
+      "sector": 60,
+      "position": [
+        11761.1640625,
+        0.0,
+        -6291.06591796875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100196,
+      "class": 37206,
+      "sector": 70,
+      "position": [
+        -23560.744140625,
+        0.0,
+        7717.1875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100197,
+      "class": 37206,
+      "sector": 40,
+      "position": [
+        -24744.107421875,
+        0.0,
+        -5005.28662109375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100198,
+      "class": 37206,
+      "sector": 40,
+      "position": [
+        -24820.875,
+        0.0,
+        -5065.349609375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100199,
+      "class": 37205,
+      "sector": 60,
+      "position": [
+        8446.9228515625,
+        0.0,
+        -8901.173828125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100200,
+      "class": 37206,
+      "sector": 60,
+      "position": [
+        7761.77685546875,
+        0.0,
+        -8394.7236328125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100201,
+      "class": 37205,
+      "sector": 60,
+      "position": [
+        7737.69873046875,
+        0.0,
+        -9117.4326171875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100202,
+      "class": 37206,
+      "sector": 60,
+      "position": [
+        8488.4501953125,
+        0.0,
+        -8993.818359375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100203,
+      "class": 37206,
+      "sector": 60,
+      "position": [
+        7854.123046875,
+        0.0,
+        -8268.634765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100204,
+      "class": 37206,
+      "sector": 60,
+      "position": [
+        7818.22607421875,
+        0.0,
+        -9087.3974609375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100205,
+      "class": 37206,
+      "sector": 60,
+      "position": [
+        7464.92236328125,
+        0.0,
+        -8740.134765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100206,
+      "class": 37206,
+      "sector": 20,
+      "position": [
+        -8364.9013671875,
+        0.0,
+        -23197.15625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100207,
+      "class": 37205,
+      "sector": 20,
+      "position": [
+        -8477.5625,
+        0.0,
+        -23882.96484375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100208,
+      "class": 37205,
+      "sector": 20,
+      "position": [
+        -8646.5517578125,
+        0.0,
+        -24523.154296875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100209,
+      "class": 37206,
+      "sector": 20,
+      "position": [
+        -8261.2021484375,
+        0.0,
+        -23222.64453125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100210,
+      "class": 37206,
+      "sector": 20,
+      "position": [
+        -8303.99609375,
+        0.0,
+        -23762.15625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100211,
+      "class": 37206,
+      "sector": 20,
+      "position": [
+        -8927.9814453125,
+        -2.8646390438079834,
+        -23972.603515625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100212,
+      "class": 37206,
+      "sector": 20,
+      "position": [
+        -8607.8291015625,
+        0.0,
+        -24435.2890625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 1000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100213,
+      "class": 37206,
+      "sector": 40,
+      "position": [
+        -23656.31640625,
+        0.0,
+        -8526.1123046875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100214,
+      "class": 37206,
+      "sector": 40,
+      "position": [
+        -23102.001953125,
+        0.0,
+        -8014.93701171875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100215,
+      "class": 37206,
+      "sector": 40,
+      "position": [
+        -23544.19921875,
+        0.0,
+        -8580.001953125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100216,
+      "class": 37206,
+      "sector": 40,
+      "position": [
+        -23445.515625,
+        0.0,
+        -7509.5390625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100217,
+      "class": 37206,
+      "sector": 40,
+      "position": [
+        -23202.009765625,
+        0.0,
+        -8217.859375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100218,
+      "class": 17000,
+      "sector": 80,
+      "position": [
+        -8639.2646484375,
+        0.0,
+        8111.75927734375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 3000,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100219,
+      "class": 37206,
+      "sector": 80,
+      "position": [
+        -8665.181640625,
+        0.0,
+        8227.869140625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 3000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100220,
+      "class": 37206,
+      "sector": 80,
+      "position": [
+        -8656.5546875,
+        0.0,
+        7986.24267578125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 3000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100221,
+      "class": 37205,
+      "sector": 30,
+      "position": [
+        8463.1181640625,
+        0.0,
+        -22945.1875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100222,
+      "class": 37205,
+      "sector": 30,
+      "position": [
+        8626.6513671875,
+        0.0,
+        -24271.431640625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100223,
+      "class": 37205,
+      "sector": 80,
+      "position": [
+        -8197.4853515625,
+        0.0,
+        7590.86962890625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100224,
+      "class": 37206,
+      "sector": 30,
+      "position": [
+        8507.990234375,
+        0.0,
+        -23107.359375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100225,
+      "class": 37206,
+      "sector": 30,
+      "position": [
+        8714.2861328125,
+        0.0,
+        -24221.099609375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100226,
+      "class": 37206,
+      "sector": 30,
+      "position": [
+        8081.005859375,
+        0.0,
+        -23900.853515625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100227,
+      "class": 37206,
+      "sector": 30,
+      "position": [
+        9046.40234375,
+        0.0,
+        -23749.982421875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100228,
+      "class": 37206,
+      "sector": 50,
+      "position": [
+        -7402.49462890625,
+        0.0,
+        -8402.0771484375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100229,
+      "class": 37206,
+      "sector": 80,
+      "position": [
+        -8371.3896484375,
+        0.0,
+        7593.59423828125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100230,
+      "class": 32000,
+      "sector": 10,
+      "position": [
+        -22987.55859375,
+        0.0,
+        -22160.55078125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100047,
+      "rp_provision": 1000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100231,
+      "class": 37206,
+      "sector": 10,
+      "position": [
+        -22897.404296875,
+        0.0,
+        -22143.94921875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100047,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100232,
+      "class": 21000,
+      "sector": 40,
+      "position": [
+        -23491.5390625,
+        0.0,
+        -8148.7578125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100067,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100233,
+      "class": 37206,
+      "sector": 40,
+      "position": [
+        -23409.318359375,
+        0.0,
+        -8228.7958984375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100067,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100234,
+      "class": 46000,
+      "sector": 50,
+      "position": [
+        -7733.0732421875,
+        0.0,
+        -7247.68505859375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100071,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100235,
+      "class": 37206,
+      "sector": 50,
+      "position": [
+        -7706.2646484375,
+        0.0,
+        -7362.1494140625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100071,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100236,
+      "class": 37206,
+      "sector": 50,
+      "position": [
+        -7668.95361328125,
+        0.0,
+        -7216.021484375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100071,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100237,
+      "class": 37206,
+      "sector": 50,
+      "position": [
+        -7794.234375,
+        0.0,
+        -7312.60400390625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100071,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100238,
+      "class": 17000,
+      "sector": 30,
+      "position": [
+        7847.15234375,
+        0.0,
+        -23321.087890625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100075,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100239,
+      "class": 37205,
+      "sector": 30,
+      "position": [
+        7962.16064453125,
+        0.0,
+        -23359.689453125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100075,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100240,
+      "class": 37206,
+      "sector": 30,
+      "position": [
+        7873.6357421875,
+        0.0,
+        -23205.994140625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100075,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100241,
+      "class": 31000,
+      "sector": 50,
+      "position": [
+        -6875.59765625,
+        0.0,
+        -8695.904296875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100079,
+      "rp_provision": 500,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100242,
+      "class": 37205,
+      "sector": 50,
+      "position": [
+        -6902.66455078125,
+        0.0,
+        -8809.8427734375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100079,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100243,
+      "class": 37206,
+      "sector": 50,
+      "position": [
+        -6986.7705078125,
+        0.0,
+        -8764.79296875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100079,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100244,
+      "class": 44100,
+      "sector": 20,
+      "position": [
+        -7823.1962890625,
+        0.0,
+        -23346.650390625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100086,
+      "rp_provision": 2000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100245,
+      "class": 37205,
+      "sector": 20,
+      "position": [
+        -7957.5166015625,
+        0.0,
+        -23379.66015625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100086,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100246,
+      "class": 37206,
+      "sector": 20,
+      "position": [
+        -7860.02099609375,
+        0.0,
+        -23481.486328125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100086,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100247,
+      "class": 44100,
+      "sector": 70,
+      "position": [
+        -23249.7734375,
+        0.0,
+        8302.12109375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100088,
+      "rp_provision": 2000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100248,
+      "class": 37205,
+      "sector": 70,
+      "position": [
+        -23299.779296875,
+        0.0,
+        8201.6875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100088,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100249,
+      "class": 37206,
+      "sector": 70,
+      "position": [
+        -23368.396484375,
+        0.0,
+        8290.7412109375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100088,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100250,
+      "class": 44100,
+      "sector": 80,
+      "position": [
+        -6531.515625,
+        0.0,
+        8061.29296875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100090,
+      "rp_provision": 2000,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100251,
+      "class": 37206,
+      "sector": 80,
+      "position": [
+        -6573.322265625,
+        0.0,
+        8189.73779296875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100090,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100252,
+      "class": 37206,
+      "sector": 80,
+      "position": [
+        -6486.3330078125,
+        0.0,
+        8140.85595703125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100090,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100253,
+      "class": 15000,
+      "sector": 50,
+      "position": [
+        -7486.02392578125,
+        0.0,
+        -7424.6533203125
+      ],
+      "rotation": [
+        0.0,
+        -0.45698097348213196,
+        0.0,
+        0.889476478099823
+      ],
+      "faction": 100078,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100254,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        7984.76904296875,
+        0.0,
+        -4229.0537109375
+      ],
+      "rotation": [
+        0.0,
+        -0.4976000487804413,
+        0.0,
+        0.8674066066741943
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100255,
+      "class": 36000,
+      "sector": 50,
+      "position": [
+        -8188.06103515625,
+        0.0,
+        -7565.30712890625
+      ],
+      "rotation": [
+        0.0,
+        0.9936179518699646,
+        0.0,
+        0.11279788613319397
+      ],
+      "faction": 100015,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100256,
+      "class": 55500,
+      "sector": 70,
+      "position": [
+        -23177.962890625,
+        0.0,
+        8300.1220703125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100030,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100257,
+      "class": 55500,
+      "sector": 10,
+      "position": [
+        -25268.607421875,
+        0.0,
+        -25188.626953125
+      ],
+      "rotation": [
+        0.0,
+        -0.6221991777420044,
+        0.0,
+        0.7828589677810669
+      ],
+      "faction": 100059,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100258,
+      "class": 36000,
+      "sector": 40,
+      "position": [
+        -23358.16015625,
+        0.0,
+        -7565.85205078125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100023,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100259,
+      "class": 27000,
+      "sector": 40,
+      "position": [
+        -23645.935546875,
+        0.0,
+        -8642.9423828125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100037,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100260,
+      "class": 16000,
+      "sector": 50,
+      "position": [
+        -8285.5595703125,
+        0.0,
+        -7571.11767578125
+      ],
+      "rotation": [
+        0.0,
+        -0.7006336450576782,
+        0.0,
+        0.7135212421417236
+      ],
+      "faction": 100052,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100261,
+      "class": 15000,
+      "sector": 80,
+      "position": [
+        -8000.0,
+        0.0,
+        8000.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100076,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100262,
+      "class": 36000,
+      "sector": 50,
+      "position": [
+        -8190.68603515625,
+        0.0,
+        -7572.919921875
+      ],
+      "rotation": [
+        0.0,
+        -0.35920631885528564,
+        0.0,
+        0.9332582354545593
+      ],
+      "faction": 100082,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100263,
+      "class": 28000,
+      "sector": 10,
+      "position": [
+        -23169.697265625,
+        0.0,
+        -22283.7265625
+      ],
+      "rotation": [
+        0.0,
+        0.9874901175498962,
+        0.0,
+        0.15768086910247803
+      ],
+      "faction": 100077,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100264,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7589.28466796875,
+        0.0,
+        7523.5576171875
+      ],
+      "rotation": [
+        0.0,
+        0.9293947219848633,
+        0.0,
+        0.3690873682498932
+      ],
+      "faction": 100046,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100265,
+      "class": 16000,
+      "sector": 10,
+      "position": [
+        -25589.755859375,
+        0.0,
+        -21603.611328125
+      ],
+      "rotation": [
+        0.0,
+        -0.7953635454177856,
+        0.0,
+        0.6061327457427979
+      ],
+      "faction": 100041,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100266,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7605.75390625,
+        0.0,
+        6355.54248046875
+      ],
+      "rotation": [
+        0.0,
+        0.5617135763168335,
+        0.0,
+        0.8273317813873291
+      ],
+      "faction": 100044,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100267,
+      "class": 820,
+      "sector": 70,
+      "position": [
+        -23456.828125,
+        0.0,
+        7793.27734375
+      ],
+      "rotation": [
+        0.0,
+        0.19202499091625214,
+        0.0,
+        0.9813900589942932
+      ],
+      "faction": 100010,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100268,
+      "class": 28000,
+      "sector": 80,
+      "position": [
+        -9571.8671875,
+        0.0,
+        8527.1767578125
+      ],
+      "rotation": [
+        0.0,
+        0.8387183547019958,
+        0.0,
+        0.5445654392242432
+      ],
+      "faction": 100055,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100269,
+      "class": 22000,
+      "sector": 20,
+      "position": [
+        -7711.0986328125,
+        0.0,
+        -23404.69140625
+      ],
+      "rotation": [
+        0.0,
+        0.9992033839225769,
+        0.0,
+        0.03990846872329712
+      ],
+      "faction": 100086,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100270,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8211.783203125,
+        0.0,
+        -5015.25146484375
+      ],
+      "rotation": [
+        0.0,
+        0.9960821270942688,
+        0.0,
+        0.08843286335468292
+      ],
+      "faction": 100051,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100271,
+      "class": 28000,
+      "sector": 50,
+      "position": [
+        -8992.669921875,
+        0.0,
+        -8597.4658203125
+      ],
+      "rotation": [
+        0.0,
+        0.665037214756012,
+        0.0,
+        0.746810257434845
+      ],
+      "faction": 100072,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100272,
+      "class": 620,
+      "sector": 10,
+      "position": [
+        -22953.916015625,
+        0.0,
+        -22181.7734375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100021,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100273,
+      "class": 100,
+      "sector": 60,
+      "position": [
+        7304.71484375,
+        0.0,
+        -9064.2666015625
+      ],
+      "rotation": [
+        0.0,
+        -0.0021556071005761623,
+        0.0,
+        0.9999976754188538
+      ],
+      "faction": 100029,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100274,
+      "class": 36000,
+      "sector": 50,
+      "position": [
+        -9705.0283203125,
+        0.0,
+        -8668.515625
+      ],
+      "rotation": [
+        0.0,
+        0.6808069944381714,
+        0.0,
+        0.7324628829956055
+      ],
+      "faction": 100063,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100275,
+      "class": 55005,
+      "sector": 40,
+      "position": [
+        -23063.333984375,
+        0.0,
+        -8079.64404296875
+      ],
+      "rotation": [
+        0.0,
+        0.8375818729400635,
+        0.0,
+        0.5463119149208069
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100276,
+      "class": 710,
+      "sector": 40,
+      "position": [
+        -23691.484375,
+        0.0,
+        -8056.6904296875
+      ],
+      "rotation": [
+        0.0,
+        -0.669304370880127,
+        0.0,
+        0.7429883480072021
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100277,
+      "class": 55500,
+      "sector": 10,
+      "position": [
+        -24041.560546875,
+        0.0,
+        -24372.064453125
+      ],
+      "rotation": [
+        0.0,
+        -0.8532219529151917,
+        0.0,
+        0.5215479731559753
+      ],
+      "faction": 3000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100278,
+      "class": 36000,
+      "sector": 50,
+      "position": [
+        -8070.68798828125,
+        0.0,
+        -7678.1650390625
+      ],
+      "rotation": [
+        0.0,
+        0.9454226493835449,
+        0.0,
+        0.3258466124534607
+      ],
+      "faction": 100064,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100279,
+      "class": 13000,
+      "sector": 40,
+      "position": [
+        -24764.607421875,
+        0.0,
+        -5170.6259765625
+      ],
+      "rotation": [
+        0.0,
+        0.9983228445053101,
+        0.0,
+        0.05789206549525261
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100280,
+      "class": 27000,
+      "sector": 10,
+      "position": [
+        -23681.0703125,
+        0.0,
+        -21142.978515625
+      ],
+      "rotation": [
+        0.0,
+        0.9761890769004822,
+        0.0,
+        -0.21692147850990295
+      ],
+      "faction": 100040,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100281,
+      "class": 12000,
+      "sector": 40,
+      "position": [
+        -24719.0234375,
+        0.0,
+        -4997.75
+      ],
+      "rotation": [
+        0.0,
+        0.178582102060318,
+        0.0,
+        0.9839250445365906
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100282,
+      "class": 36000,
+      "sector": 80,
+      "position": [
+        -7992.14892578125,
+        0.0,
+        8028.6484375
+      ],
+      "rotation": [
+        0.0,
+        0.9142859578132629,
+        0.0,
+        0.4050694406032562
+      ],
+      "faction": 100020,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100283,
+      "class": 55005,
+      "sector": 40,
+      "position": [
+        -23364.443359375,
+        0.0,
+        -7488.49169921875
+      ],
+      "rotation": [
+        0.0,
+        -0.2537349760532379,
+        0.0,
+        0.9672738313674927
+      ],
+      "faction": 100004,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100284,
+      "class": 41003,
+      "sector": 40,
+      "position": [
+        -24308.814453125,
+        0.0,
+        -5671.98681640625
+      ],
+      "rotation": [
+        0.0,
+        -0.3016849160194397,
+        0.0,
+        0.9534077048301697
+      ],
+      "faction": 100001,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100285,
+      "class": 13000,
+      "sector": 50,
+      "position": [
+        -7348.4638671875,
+        0.0,
+        -6747.98193359375
+      ],
+      "rotation": [
+        0.0,
+        0.9496353268623352,
+        0.0,
+        0.31335726380348206
+      ],
+      "faction": 100083,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100286,
+      "class": 55500,
+      "sector": 80,
+      "position": [
+        -6619.63037109375,
+        0.0,
+        8011.93115234375
+      ],
+      "rotation": [
+        0.0,
+        -0.6142166256904602,
+        0.0,
+        0.7891374826431274
+      ],
+      "faction": 100008,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100287,
+      "class": 0,
+      "sector": 30,
+      "position": [
+        8089.99267578125,
+        0.0,
+        -23579.74609375
+      ],
+      "rotation": [
+        0.0,
+        0.5623051524162292,
+        0.0,
+        0.8269298076629639
+      ],
+      "faction": 100075,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100288,
+      "class": 36000,
+      "sector": 50,
+      "position": [
+        -8179.203125,
+        0.0,
+        -7597.20263671875
+      ],
+      "rotation": [
+        0.0,
+        0.9937250018119812,
+        0.0,
+        0.11185111105442047
+      ],
+      "faction": 100016,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100289,
+      "class": 22000,
+      "sector": 20,
+      "position": [
+        -9053.767578125,
+        0.0,
+        -23428.330078125
+      ],
+      "rotation": [
+        0.0,
+        -0.7642856240272522,
+        0.0,
+        0.6448779702186584
+      ],
+      "faction": 3001,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100290,
+      "class": 16000,
+      "sector": 10,
+      "position": [
+        -24929.02734375,
+        0.0,
+        -21383.98828125
+      ],
+      "rotation": [
+        0.0,
+        -0.7862213850021362,
+        0.0,
+        0.6179449558258057
+      ],
+      "faction": 100042,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100291,
+      "class": 820,
+      "sector": 70,
+      "position": [
+        -23560.744140625,
+        0.0,
+        7717.1875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100017,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100292,
+      "class": 14000,
+      "sector": 10,
+      "position": [
+        -22380.001953125,
+        0.0,
+        -24637.52734375
+      ],
+      "rotation": [
+        0.0,
+        -0.17129774391651154,
+        0.0,
+        0.9852193593978882
+      ],
+      "faction": 100038,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100293,
+      "class": 22005,
+      "sector": 30,
+      "position": [
+        8307.6787109375,
+        0.0,
+        -23286.912109375
+      ],
+      "rotation": [
+        -0.017287984490394592,
+        0.3480316400527954,
+        -0.046502891927957535,
+        0.9361691474914551
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100294,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7812.74853515625,
+        0.0,
+        7810.21826171875
+      ],
+      "rotation": [
+        0.0,
+        0.9115442037582397,
+        0.0,
+        0.4112021028995514
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100295,
+      "class": 41003,
+      "sector": 30,
+      "position": [
+        8617.5634765625,
+        -6.495974957942963e-08,
+        -23658.76171875
+      ],
+      "rotation": [
+        1.418811734765768e-10,
+        0.37550124526023865,
+        6.275513442233205e-11,
+        0.9268219470977783
+      ],
+      "faction": 100007,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100296,
+      "class": 39000,
+      "sector": 20,
+      "position": [
+        -8712.9248046875,
+        0.0,
+        -23550.16796875
+      ],
+      "rotation": [
+        0.0,
+        0.6999778151512146,
+        0.0,
+        0.7141646146774292
+      ],
+      "faction": 100081,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100297,
+      "class": 28000,
+      "sector": 40,
+      "position": [
+        -24741.873046875,
+        0.0,
+        -5113.43505859375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100026,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100298,
+      "class": 36000,
+      "sector": 70,
+      "position": [
+        -23066.296875,
+        0.0,
+        8048.1123046875
+      ],
+      "rotation": [
+        0.0,
+        0.456703782081604,
+        0.0,
+        0.8896188139915466
+      ],
+      "faction": 100061,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100299,
+      "class": 710,
+      "sector": 40,
+      "position": [
+        -23655.86328125,
+        0.0,
+        -8100.6357421875
+      ],
+      "rotation": [
+        0.0,
+        -0.669304370880127,
+        0.0,
+        0.7429883480072021
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100300,
+      "class": 41003,
+      "sector": 10,
+      "position": [
+        -22452.84375,
+        0.0,
+        -24468.76953125
+      ],
+      "rotation": [
+        0.0,
+        -0.17159739136695862,
+        0.0,
+        0.9851672053337097
+      ],
+      "faction": 100003,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100301,
+      "class": 28000,
+      "sector": 50,
+      "position": [
+        -7922.01171875,
+        0.0,
+        -7385.958984375
+      ],
+      "rotation": [
+        0.0,
+        0.45244723558425903,
+        0.0,
+        0.8917912244796753
+      ],
+      "faction": 100057,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100302,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7470.6015625,
+        0.0,
+        7209.51708984375
+      ],
+      "rotation": [
+        0.0,
+        0.9519954919815063,
+        0.0,
+        0.30611205101013184
+      ],
+      "faction": 100043,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100303,
+      "class": 710,
+      "sector": 40,
+      "position": [
+        -23595.525390625,
+        0.0,
+        -8232.6669921875
+      ],
+      "rotation": [
+        0.0,
+        0.9835418462753296,
+        0.0,
+        -0.1806807667016983
+      ],
+      "faction": 100062,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100304,
+      "class": 16000,
+      "sector": 40,
+      "position": [
+        -23689.984375,
+        0.0,
+        -7842.904296875
+      ],
+      "rotation": [
+        0.0,
+        0.514229416847229,
+        0.0,
+        0.8576526641845703
+      ],
+      "faction": 100049,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100305,
+      "class": 100,
+      "sector": 40,
+      "position": [
+        -23188.650390625,
+        0.0,
+        -8118.99072265625
+      ],
+      "rotation": [
+        0.0,
+        -0.23462863266468048,
+        0.0,
+        0.9720850586891174
+      ],
+      "faction": 100005,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100306,
+      "class": 12000,
+      "sector": 60,
+      "position": [
+        7793.37841796875,
+        0.0,
+        -7751.884765625
+      ],
+      "rotation": [
+        0.0,
+        -0.8294007778167725,
+        0.0,
+        0.5586540102958679
+      ],
+      "faction": 100002,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100307,
+      "class": 12000,
+      "sector": 50,
+      "position": [
+        -8011.0751953125,
+        0.0,
+        -7699.046875
+      ],
+      "rotation": [
+        0.0,
+        0.8226282596588135,
+        0.0,
+        0.5685795545578003
+      ],
+      "faction": 100084,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100308,
+      "class": 55000,
+      "sector": 70,
+      "position": [
+        -23226.97265625,
+        0.0,
+        8375.0615234375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100035,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100309,
+      "class": 0,
+      "sector": 60,
+      "position": [
+        7224.70361328125,
+        0.0,
+        -9079.3564453125
+      ],
+      "rotation": [
+        0.0,
+        0.361703485250473,
+        0.0,
+        0.9322932362556458
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100310,
+      "class": 36000,
+      "sector": 60,
+      "position": [
+        7430.51318359375,
+        0.0,
+        -8552.419921875
+      ],
+      "rotation": [
+        0.0,
+        -0.001982111716642976,
+        0.0,
+        0.9999980330467224
+      ],
+      "faction": 100022,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100311,
+      "class": 25000,
+      "sector": 30,
+      "position": [
+        8015.94140625,
+        0.0,
+        -23389.98046875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100034,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100312,
+      "class": 8000,
+      "sector": 60,
+      "position": [
+        6915.4853515625,
+        0.0,
+        -8578.3974609375
+      ],
+      "rotation": [
+        0.0,
+        0.7848405838012695,
+        0.0,
+        0.6196977496147156
+      ],
+      "faction": 3000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100313,
+      "class": 9000,
+      "sector": 80,
+      "position": [
+        -9792.341796875,
+        0.0,
+        7453.38818359375
+      ],
+      "rotation": [
+        0.0,
+        0.6090614199638367,
+        0.0,
+        0.7931230664253235
+      ],
+      "faction": 100073,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100314,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7885.95947265625,
+        0.0,
+        7840.90771484375
+      ],
+      "rotation": [
+        0.0,
+        0.9689171314239502,
+        0.0,
+        0.247385635972023
+      ],
+      "faction": 100054,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100315,
+      "class": 12000,
+      "sector": 60,
+      "position": [
+        7436.70703125,
+        0.0,
+        -8723.7412109375
+      ],
+      "rotation": [
+        0.0,
+        0.9348140358924866,
+        0.0,
+        0.35513758659362793
+      ],
+      "faction": 100018,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100316,
+      "class": 28000,
+      "sector": 50,
+      "position": [
+        -6005.44140625,
+        0.0,
+        -8451.416015625
+      ],
+      "rotation": [
+        0.0,
+        -0.5717012286186218,
+        0.0,
+        0.8204619288444519
+      ],
+      "faction": 100056,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100317,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7394.68701171875,
+        0.0,
+        6972.0615234375
+      ],
+      "rotation": [
+        0.0,
+        0.9697084426879883,
+        0.0,
+        0.24426551163196564
+      ],
+      "faction": 100045,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100318,
+      "class": 820,
+      "sector": 60,
+      "position": [
+        11579.30859375,
+        0.0,
+        -6178.45556640625
+      ],
+      "rotation": [
+        0.0,
+        -0.5118122100830078,
+        0.0,
+        0.8590973615646362
+      ],
+      "faction": 100009,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100319,
+      "class": 36000,
+      "sector": 40,
+      "position": [
+        -23308.908203125,
+        0.0,
+        -7595.59130859375
+      ],
+      "rotation": [
+        0.0,
+        0.8193394541740417,
+        0.0,
+        0.5733086466789246
+      ],
+      "faction": 100014,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100320,
+      "class": 28000,
+      "sector": 60,
+      "position": [
+        11583.3505859375,
+        0.0,
+        -6278.013671875
+      ],
+      "rotation": [
+        0.0,
+        0.8698062300682068,
+        0.0,
+        -0.4933934807777405
+      ],
+      "faction": 100011,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100321,
+      "class": 13000,
+      "sector": 50,
+      "position": [
+        -8454.9560546875,
+        0.0,
+        -7541.474609375
+      ],
+      "rotation": [
+        0.0,
+        0.8241504430770874,
+        0.0,
+        0.566370964050293
+      ],
+      "faction": 100085,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100322,
+      "class": 13000,
+      "sector": 40,
+      "position": [
+        -24735.4140625,
+        0.0,
+        -5101.4765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100006,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100323,
+      "class": 12000,
+      "sector": 30,
+      "position": [
+        8175.4912109375,
+        0.0,
+        -23329.826171875
+      ],
+      "rotation": [
+        0.0,
+        0.8862239122390747,
+        0.0,
+        -0.4632571339607239
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100324,
+      "class": 625,
+      "sector": 10,
+      "position": [
+        -24089.970703125,
+        0.0,
+        -23446.701171875
+      ],
+      "rotation": [
+        0.0,
+        0.34694570302963257,
+        0.0,
+        0.9378852248191833
+      ],
+      "faction": 100074,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100325,
+      "class": 12000,
+      "sector": 10,
+      "position": [
+        -23622.646484375,
+        0.0,
+        -20872.68359375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100087,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100326,
+      "class": 820,
+      "sector": 40,
+      "position": [
+        -24770.529296875,
+        0.0,
+        -5021.1416015625
+      ],
+      "rotation": [
+        0.0,
+        0.178582102060318,
+        0.0,
+        0.9839250445365906
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100327,
+      "class": 100,
+      "sector": 40,
+      "position": [
+        -23647.5390625,
+        0.0,
+        -8021.0703125
+      ],
+      "rotation": [
+        0.0,
+        -0.669304370880127,
+        0.0,
+        0.7429883480072021
+      ],
+      "faction": 2000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100328,
+      "class": 36000,
+      "sector": 30,
+      "position": [
+        8624.703125,
+        7.57165253162384e-07,
+        -23273.7890625
+      ],
+      "rotation": [
+        0.05232466012239456,
+        0.8264545798301697,
+        -0.03541979938745499,
+        -0.5594466328620911
+      ],
+      "faction": 100012,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100329,
+      "class": 36000,
+      "sector": 50,
+      "position": [
+        -8049.99755859375,
+        0.0,
+        -7498.36572265625
+      ],
+      "rotation": [
+        0.0,
+        0.4356767237186432,
+        0.0,
+        0.9001032114028931
+      ],
+      "faction": 100071,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100330,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8433.689453125,
+        0.0,
+        -4213.46728515625
+      ],
+      "rotation": [
+        0.0,
+        0.42661845684051514,
+        0.0,
+        0.9044317007064819
+      ],
+      "faction": 100053,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100331,
+      "class": 100,
+      "sector": 70,
+      "position": [
+        -23313.298828125,
+        0.0,
+        8249.8134765625
+      ],
+      "rotation": [
+        0.0,
+        -0.001008436782285571,
+        0.0,
+        0.9999995231628418
+      ],
+      "faction": 100033,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100332,
+      "class": 36000,
+      "sector": 30,
+      "position": [
+        8603.880859375,
+        0.0,
+        -23294.69140625
+      ],
+      "rotation": [
+        0.10573536157608032,
+        0.6533447504043579,
+        -0.1197614073753357,
+        -0.7400121688842773
+      ],
+      "faction": 100068,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100333,
+      "class": 36000,
+      "sector": 10,
+      "position": [
+        -22938.84765625,
+        0.0,
+        -22197.61328125
+      ],
+      "rotation": [
+        0.0,
+        0.9760969281196594,
+        0.0,
+        0.2173357605934143
+      ],
+      "faction": 100013,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100334,
+      "class": 36000,
+      "sector": 50,
+      "position": [
+        -8170.8076171875,
+        0.0,
+        -7615.9833984375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100024,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100335,
+      "class": 36000,
+      "sector": 70,
+      "position": [
+        -23455.67578125,
+        0.0,
+        7740.23876953125
+      ],
+      "rotation": [
+        0.0,
+        0.4487239122390747,
+        0.0,
+        0.8936704993247986
+      ],
+      "faction": 100065,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100336,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7347.0244140625,
+        0.0,
+        7121.57275390625
+      ],
+      "rotation": [
+        0.0,
+        0.9272729754447937,
+        0.0,
+        0.3743859529495239
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100337,
+      "class": 22050,
+      "sector": 10,
+      "position": [
+        -22665.26953125,
+        0.0,
+        -24871.890625
+      ],
+      "rotation": [
+        0.0,
+        -0.7393528819084167,
+        0.0,
+        0.6733182072639465
+      ],
+      "faction": 100027,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100338,
+      "class": 36000,
+      "sector": 70,
+      "position": [
+        -22414.12109375,
+        0.0,
+        8497.0908203125
+      ],
+      "rotation": [
+        0.0,
+        0.3847391605377197,
+        0.0,
+        0.923025369644165
+      ],
+      "faction": 100069,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100339,
+      "class": 16000,
+      "sector": 10,
+      "position": [
+        -22934.603515625,
+        0.0,
+        -22268.568359375
+      ],
+      "rotation": [
+        0.0,
+        0.8922701478004456,
+        0.0,
+        0.45150190591812134
+      ],
+      "faction": 100047,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100340,
+      "class": 820,
+      "sector": 80,
+      "position": [
+        -7872.37890625,
+        0.0,
+        6459.19677734375
+      ],
+      "rotation": [
+        0.0,
+        0.35040220618247986,
+        0.0,
+        0.9365993738174438
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100341,
+      "class": 16000,
+      "sector": 40,
+      "position": [
+        -24156.4765625,
+        0.0,
+        -9062.3837890625
+      ],
+      "rotation": [
+        0.0,
+        0.9994110465049744,
+        0.0,
+        -0.03431669622659683
+      ],
+      "faction": 100048,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100342,
+      "class": 25000,
+      "sector": 30,
+      "position": [
+        8092.18017578125,
+        0.0,
+        -23437.64453125
+      ],
+      "rotation": [
+        0.0,
+        0.13745392858982086,
+        0.0,
+        -0.9905081391334534
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100343,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8098.27490234375,
+        0.0,
+        -4493.54931640625
+      ],
+      "rotation": [
+        0.0,
+        0.9744687676429749,
+        0.0,
+        -0.22452332079410553
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100344,
+      "class": 22000,
+      "sector": 20,
+      "position": [
+        -8681.005859375,
+        0.0,
+        -24583.587890625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100032,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100345,
+      "class": 15100,
+      "sector": 50,
+      "position": [
+        -8717.57421875,
+        0.0,
+        -7433.1064453125
+      ],
+      "rotation": [
+        0.0,
+        -0.583245575428009,
+        0.0,
+        0.8122959136962891
+      ],
+      "faction": 100060,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100346,
+      "class": 15000,
+      "sector": 80,
+      "position": [
+        -9637.880859375,
+        0.0,
+        7504.59716796875
+      ],
+      "rotation": [
+        0.0,
+        -0.8134723901748657,
+        0.0,
+        0.5816035270690918
+      ],
+      "faction": 3000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100347,
+      "class": 41003,
+      "sector": 50,
+      "position": [
+        -7454.85498046875,
+        0.0,
+        -8613.037109375
+      ],
+      "rotation": [
+        0.0,
+        -0.7125871181488037,
+        0.0,
+        0.7015836834907532
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100348,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8344.10546875,
+        0.0,
+        -4548.97998046875
+      ],
+      "rotation": [
+        0.0,
+        0.9901292324066162,
+        0.0,
+        0.140157550573349
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100349,
+      "class": 28000,
+      "sector": 30,
+      "position": [
+        8140.17041015625,
+        5.167676135897636e-07,
+        -23569.673828125
+      ],
+      "rotation": [
+        -7.636844401304188e-08,
+        0.8568874001502991,
+        -5.960463766996327e-08,
+        -0.5155037045478821
+      ],
+      "faction": 100075,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100350,
+      "class": 12000,
+      "sector": 80,
+      "position": [
+        -7190.3662109375,
+        0.0,
+        8247.9091796875
+      ],
+      "rotation": [
+        0.0,
+        -0.6208345890045166,
+        0.0,
+        0.7839416265487671
+      ],
+      "faction": 100091,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100351,
+      "class": 12000,
+      "sector": 40,
+      "position": [
+        -24695.630859375,
+        0.0,
+        -5049.255859375
+      ],
+      "rotation": [
+        0.0,
+        0.178582102060318,
+        0.0,
+        0.9839250445365906
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100352,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8272.732421875,
+        0.0,
+        -3963.96044921875
+      ],
+      "rotation": [
+        0.0,
+        0.00540034519508481,
+        0.0,
+        0.9999854564666748
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100353,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8462.5205078125,
+        0.0,
+        -4413.326171875
+      ],
+      "rotation": [
+        0.0,
+        0.8609545230865479,
+        0.0,
+        0.5086819529533386
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100354,
+      "class": 36000,
+      "sector": 10,
+      "position": [
+        -22701.9453125,
+        0.0,
+        -22562.84375
+      ],
+      "rotation": [
+        0.0,
+        0.9652349948883057,
+        0.0,
+        0.26138365268707275
+      ],
+      "faction": 100066,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100355,
+      "class": 27000,
+      "sector": 40,
+      "position": [
+        -24735.4140625,
+        0.0,
+        -5101.4765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100039,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100356,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7922.365234375,
+        0.0,
+        7915.4208984375
+      ],
+      "rotation": [
+        0.0,
+        0.9502819180488586,
+        0.0,
+        0.3113909065723419
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100357,
+      "class": 36000,
+      "sector": 20,
+      "position": [
+        -8471.876953125,
+        0.0,
+        -23803.8984375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100025,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100358,
+      "class": 16000,
+      "sector": 10,
+      "position": [
+        -22998.97265625,
+        0.0,
+        -22278.46875
+      ],
+      "rotation": [
+        0.0,
+        0.9871899485588074,
+        0.0,
+        0.15954966843128204
+      ],
+      "faction": 100047,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100359,
+      "class": 36000,
+      "sector": 10,
+      "position": [
+        -23626.66015625,
+        0.0,
+        -22739.017578125
+      ],
+      "rotation": [
+        0.0,
+        0.340286523103714,
+        0.0,
+        0.9403218030929565
+      ],
+      "faction": 100089,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100360,
+      "class": 25000,
+      "sector": 60,
+      "position": [
+        7147.00146484375,
+        0.0,
+        -9082.8720703125
+      ],
+      "rotation": [
+        0.0,
+        0.361703485250473,
+        0.0,
+        0.9322932362556458
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100361,
+      "class": 28000,
+      "sector": 80,
+      "position": [
+        -7752.21484375,
+        0.0,
+        8058.544921875
+      ],
+      "rotation": [
+        0.0,
+        -0.78420090675354,
+        0.0,
+        0.6205070614814758
+      ],
+      "faction": 100080,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100362,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8286.279296875,
+        0.0,
+        -4356.4638671875
+      ],
+      "rotation": [
+        0.0,
+        0.8783526420593262,
+        0.0,
+        0.4780132472515106
+      ],
+      "faction": 100050,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100363,
+      "class": 100,
+      "sector": 30,
+      "position": [
+        8180.79345703125,
+        0.0,
+        -23413.595703125
+      ],
+      "rotation": [
+        0.0,
+        0.5821943879127502,
+        0.0,
+        -0.8130496144294739
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100364,
+      "class": 16000,
+      "sector": 10,
+      "position": [
+        -22897.46484375,
+        0.0,
+        -22274.015625
+      ],
+      "rotation": [
+        0.0,
+        0.9611654877662659,
+        0.0,
+        0.2759726941585541
+      ],
+      "faction": 100047,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100365,
+      "class": 12000,
+      "sector": 80,
+      "position": [
+        -7928.8115234375,
+        0.0,
+        6455.2744140625
+      ],
+      "rotation": [
+        0.0,
+        0.35040220618247986,
+        0.0,
+        0.9365993738174438
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100366,
+      "class": 16000,
+      "sector": 10,
+      "position": [
+        -22565.109375,
+        0.0,
+        -22936.580078125
+      ],
+      "rotation": [
+        0.0,
+        0.9685492515563965,
+        0.0,
+        0.24882210791110992
+      ],
+      "faction": 100047,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100367,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        7977.81103515625,
+        0.0,
+        -4547.66162109375
+      ],
+      "rotation": [
+        0.0,
+        0.9358211755752563,
+        0.0,
+        -0.35247525572776794
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100368,
+      "class": 16000,
+      "sector": 10,
+      "position": [
+        -22946.51171875,
+        0.0,
+        -22764.59375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100047,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100369,
+      "class": 15000,
+      "sector": 20,
+      "position": [
+        -8429.5869140625,
+        0.0,
+        -23783.48828125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100058,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100370,
+      "class": 13000,
+      "sector": 50,
+      "position": [
+        -7414.2373046875,
+        0.0,
+        -8652.41015625
+      ],
+      "rotation": [
+        0.0,
+        -0.7125871181488037,
+        0.0,
+        0.7015836834907532
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100371,
+      "class": 28000,
+      "sector": 40,
+      "position": [
+        -23588.93359375,
+        0.0,
+        -8490.7578125
+      ],
+      "rotation": [
+        0.0,
+        0.9961503744125366,
+        0.0,
+        -0.08766148239374161
+      ],
+      "faction": 100067,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100372,
+      "class": 36000,
+      "sector": 40,
+      "position": [
+        -24532.943359375,
+        0.0,
+        -7259.69482421875
+      ],
+      "rotation": [
+        0.0,
+        0.9983941316604614,
+        0.0,
+        0.05665021017193794
+      ],
+      "faction": 1210,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100373,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7639.10888671875,
+        0.0,
+        7630.61865234375
+      ],
+      "rotation": [
+        0.0,
+        0.9131188988685608,
+        0.0,
+        0.40769341588020325
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100374,
+      "class": 22050,
+      "sector": 50,
+      "position": [
+        -9338.8974609375,
+        0.0,
+        -8326.0390625
+      ],
+      "rotation": [
+        0.0,
+        0.8929115533828735,
+        0.0,
+        -0.45023223757743835
+      ],
+      "faction": 100028,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100375,
+      "class": 55503,
+      "sector": 60,
+      "position": [
+        7342.82421875,
+        0.0,
+        -9100.4404296875
+      ],
+      "rotation": [
+        0.0,
+        0.012198777869343758,
+        0.0,
+        0.9999256134033203
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100376,
+      "class": 36000,
+      "sector": 20,
+      "position": [
+        -8738.4501953125,
+        0.0,
+        -23270.87890625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100019,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100377,
+      "class": 13000,
+      "sector": 40,
+      "position": [
+        -24729.5,
+        0.0,
+        -5126.2705078125
+      ],
+      "rotation": [
+        0.0,
+        0.9983228445053101,
+        0.0,
+        0.05789206549525261
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100378,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7564.29541015625,
+        0.0,
+        7445.015625
+      ],
+      "rotation": [
+        0.0,
+        -0.0013209449825808406,
+        0.0,
+        0.9999991655349731
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100379,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8240.9521484375,
+        0.0,
+        -4124.59521484375
+      ],
+      "rotation": [
+        0.0,
+        0.06378256529569626,
+        0.0,
+        0.9979638457298279
+      ],
+      "faction": 100050,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100380,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8410.138671875,
+        0.0,
+        -4290.2666015625
+      ],
+      "rotation": [
+        0.0,
+        0.5566942095756531,
+        0.0,
+        0.8307175636291504
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100381,
+      "class": 41000,
+      "sector": 80,
+      "position": [
+        -7868.45654296875,
+        0.0,
+        6402.76416015625
+      ],
+      "rotation": [
+        0.0,
+        0.35040220618247986,
+        0.0,
+        0.9365993738174438
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100382,
+      "class": 41000,
+      "sector": 80,
+      "position": [
+        -7924.888671875,
+        0.0,
+        6398.841796875
+      ],
+      "rotation": [
+        0.0,
+        0.35040220618247986,
+        0.0,
+        0.9365993738174438
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100383,
+      "class": 710,
+      "sector": 40,
+      "position": [
+        -23429.291015625,
+        0.0,
+        -7568.7861328125
+      ],
+      "rotation": [
+        0.0,
+        0.9961503744125366,
+        0.0,
+        -0.08766148239374161
+      ],
+      "faction": 100067,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100384,
+      "class": 41003,
+      "sector": 30,
+      "position": [
+        8227.1591796875,
+        -1.8044374883174896e-08,
+        -23418.333984375
+      ],
+      "rotation": [
+        0.0,
+        0.2799057066440582,
+        0.0,
+        0.9600274562835693
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100385,
+      "class": 710,
+      "sector": 60,
+      "position": [
+        7256.41650390625,
+        0.0,
+        -9137.53125
+      ],
+      "rotation": [
+        0.0,
+        0.361703485250473,
+        0.0,
+        0.9322932362556458
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100386,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7370.92919921875,
+        0.0,
+        7139.92431640625
+      ],
+      "rotation": [
+        0.0,
+        0.942202627658844,
+        0.0,
+        0.33504366874694824
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100387,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7572.46435546875,
+        0.0,
+        7696.060546875
+      ],
+      "rotation": [
+        0.0,
+        0.909742534160614,
+        0.0,
+        0.41517284512519836
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100388,
+      "class": 55500,
+      "sector": 60,
+      "position": [
+        7173.4228515625,
+        0.0,
+        -9164.3447265625
+      ],
+      "rotation": [
+        0.0,
+        0.361703485250473,
+        0.0,
+        0.9322932362556458
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100389,
+      "class": 36000,
+      "sector": 70,
+      "position": [
+        -22425.40234375,
+        0.0,
+        8481.080078125
+      ],
+      "rotation": [
+        0.0,
+        0.41916969418525696,
+        0.0,
+        0.9079079031944275
+      ],
+      "faction": 100070,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100390,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -7785.98095703125,
+        0.0,
+        7837.01318359375
+      ],
+      "rotation": [
+        0.0,
+        0.9097514748573303,
+        0.0,
+        0.41515329480171204
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100391,
+      "class": 41003,
+      "sector": 30,
+      "position": [
+        8378.6103515625,
+        2.2365711629390717e-06,
+        -23432.70703125
+      ],
+      "rotation": [
+        0.006302659399807453,
+        0.3932458758354187,
+        -0.01473377924412489,
+        -0.9192937016487122
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100392,
+      "class": 55500,
+      "sector": 80,
+      "position": [
+        -8959.03515625,
+        0.0,
+        7607.171875
+      ],
+      "rotation": [
+        0.0,
+        -0.7795516848564148,
+        0.0,
+        0.6263378858566284
+      ],
+      "faction": 3000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100393,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -6667.87744140625,
+        0.0,
+        7213.90087890625
+      ],
+      "rotation": [
+        0.0,
+        0.8853587508201599,
+        0.0,
+        0.4649084806442261
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100394,
+      "class": 55005,
+      "sector": 30,
+      "position": [
+        8320.8330078125,
+        0.0,
+        -23462.587890625
+      ],
+      "rotation": [
+        0.0,
+        0.12155028432607651,
+        0.0,
+        -0.992585301399231
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100395,
+      "class": 820,
+      "sector": 70,
+      "position": [
+        -23141.685546875,
+        0.0,
+        7848.4892578125
+      ],
+      "rotation": [
+        0.0,
+        -0.8641765713691711,
+        0.0,
+        0.5031887888908386
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100396,
+      "class": 36000,
+      "sector": 70,
+      "position": [
+        -23087.154296875,
+        0.0,
+        7833.44580078125
+      ],
+      "rotation": [
+        0.0,
+        -0.8641765713691711,
+        0.0,
+        0.5031887888908386
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100397,
+      "class": 13000,
+      "sector": 50,
+      "position": [
+        -7415.482421875,
+        0.0,
+        -8572.419921875
+      ],
+      "rotation": [
+        0.0,
+        -0.7125871181488037,
+        0.0,
+        0.7015836834907532
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100398,
+      "class": 41000,
+      "sector": 70,
+      "position": [
+        -23126.642578125,
+        0.0,
+        7903.02099609375
+      ],
+      "rotation": [
+        0.0,
+        -0.8641765713691711,
+        0.0,
+        0.5031887888908386
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100399,
+      "class": 41003,
+      "sector": 60,
+      "position": [
+        7294.05322265625,
+        0.0,
+        -9156.8447265625
+      ],
+      "rotation": [
+        0.0,
+        0.012198777869343758,
+        0.0,
+        0.9999256134033203
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100400,
+      "class": 25003,
+      "sector": 60,
+      "position": [
+        7436.8017578125,
+        0.0,
+        -9160.4775390625
+      ],
+      "rotation": [
+        0.0,
+        0.012198777869343758,
+        0.0,
+        0.9999256134033203
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100401,
+      "class": 41003,
+      "sector": 30,
+      "position": [
+        7954.849609375,
+        -2.60770320892334e-08,
+        -24720.5
+      ],
+      "rotation": [
+        -1.1968950275331736e-09,
+        0.35786664485931396,
+        2.8558133635669947e-09,
+        0.9337727427482605
+      ],
+      "faction": 9000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100402,
+      "class": 710,
+      "sector": 60,
+      "position": [
+        7935.64501953125,
+        0.0,
+        -8160.560546875
+      ],
+      "rotation": [
+        0.0,
+        0.2685154676437378,
+        0.0,
+        0.9632753729820251
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100403,
+      "class": 13000,
+      "sector": 40,
+      "position": [
+        -24808.962890625,
+        0.0,
+        -5135.517578125
+      ],
+      "rotation": [
+        0.0,
+        0.9983228445053101,
+        0.0,
+        0.05789206549525261
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100404,
+      "class": 820,
+      "sector": 40,
+      "position": [
+        -24797.2734375,
+        0.0,
+        -5222.37353515625
+      ],
+      "rotation": [
+        0.0,
+        0.9906941056251526,
+        0.0,
+        -0.13610757887363434
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100405,
+      "class": 12000,
+      "sector": 40,
+      "position": [
+        -24747.96875,
+        0.0,
+        -5194.642578125
+      ],
+      "rotation": [
+        0.0,
+        0.9906941056251526,
+        0.0,
+        -0.13610757887363434
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100406,
+      "class": 41000,
+      "sector": 40,
+      "position": [
+        -24825.00390625,
+        0.0,
+        -5173.068359375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100407,
+      "class": 13000,
+      "sector": 40,
+      "position": [
+        -24631.43359375,
+        0.0,
+        -5077.75439453125
+      ],
+      "rotation": [
+        0.0,
+        0.760063648223877,
+        0.0,
+        0.6498486399650574
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100408,
+      "class": 55500,
+      "sector": 60,
+      "position": [
+        8004.10888671875,
+        0.0,
+        -8201.9453125
+      ],
+      "rotation": [
+        0.0,
+        0.2685154676437378,
+        0.0,
+        0.9632753729820251
+      ],
+      "faction": 6000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100409,
+      "class": 41003,
+      "sector": 40,
+      "position": [
+        -24664.732421875,
+        0.0,
+        -5032.0244140625
+      ],
+      "rotation": [
+        0.0,
+        0.760063648223877,
+        0.0,
+        0.6498486399650574
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100410,
+      "class": 41003,
+      "sector": 40,
+      "position": [
+        -24677.1640625,
+        0.0,
+        -5111.052734375
+      ],
+      "rotation": [
+        0.0,
+        0.760063648223877,
+        0.0,
+        0.6498486399650574
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100411,
+      "class": 12000,
+      "sector": 40,
+      "position": [
+        -24765.3671875,
+        0.0,
+        -5082.52685546875
+      ],
+      "rotation": [
+        0.0,
+        -0.671080470085144,
+        0.0,
+        0.7413845062255859
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100412,
+      "class": 41003,
+      "sector": 40,
+      "position": [
+        -24569.673828125,
+        0.0,
+        -5172.560546875
+      ],
+      "rotation": [
+        0.0,
+        0.8500330448150635,
+        0.0,
+        0.5267294049263
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100413,
+      "class": 36000,
+      "sector": 30,
+      "position": [
+        8634.48046875,
+        0.0,
+        -23345.291015625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 8000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100414,
+      "class": 7000,
+      "sector": 10,
+      "position": [
+        -26512.068359375,
+        0.9340677261352539,
+        -21701.73046875
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100415,
+      "class": 6000,
+      "sector": 50,
+      "position": [
+        -7994.74365234375,
+        -5.767388343811035,
+        -7295.0166015625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100416,
+      "class": 7000,
+      "sector": 10,
+      "position": [
+        -26507.681640625,
+        2.1205739974975586,
+        -22750.16015625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100417,
+      "class": 7000,
+      "sector": 60,
+      "position": [
+        8284.7802734375,
+        3.4351258277893066,
+        -5070.166015625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100418,
+      "class": 7000,
+      "sector": 10,
+      "position": [
+        -26516.515625,
+        -2.8243284225463867,
+        -22753.580078125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100419,
+      "class": 7000,
+      "sector": 80,
+      "position": [
+        -7011.2490234375,
+        3.1275038719177246,
+        6434.078125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100420,
+      "class": 6000,
+      "sector": 50,
+      "position": [
+        -5431.88720703125,
+        6.219844818115234,
+        -10786.2041015625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100421,
+      "class": 7000,
+      "sector": 10,
+      "position": [
+        -22558.529296875,
+        6.513957977294922,
+        -23009.314453125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100422,
+      "class": 6000,
+      "sector": 50,
+      "position": [
+        -8006.1962890625,
+        3.8878941535949707,
+        -8355.9931640625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100423,
+      "class": 6000,
+      "sector": 50,
+      "position": [
+        -6365.19189453125,
+        -7.1075615882873535,
+        -7613.25927734375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100424,
+      "class": 7000,
+      "sector": 60,
+      "position": [
+        8286.2578125,
+        1.8020930290222168,
+        -5065.4814453125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100425,
+      "class": 7000,
+      "sector": 40,
+      "position": [
+        -22838.572265625,
+        6.166846752166748,
+        -7771.75927734375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100426,
+      "class": 7000,
+      "sector": 10,
+      "position": [
+        -26814.236328125,
+        -6.416305065155029,
+        -22222.1640625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100427,
+      "class": 6000,
+      "sector": 50,
+      "position": [
+        -6365.19189453125,
+        -7.1075615882873535,
+        -7613.25927734375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100428,
+      "class": 7000,
+      "sector": 80,
+      "position": [
+        -7011.6015625,
+        3.0479958057403564,
+        7139.26025390625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100429,
+      "class": 7000,
+      "sector": 10,
+      "position": [
+        -26200.03125,
+        5.865042686462402,
+        -21874.943359375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100430,
+      "class": 6000,
+      "sector": 50,
+      "position": [
+        -6357.1328125,
+        -1.8563573360443115,
+        -10971.39453125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100431,
+      "class": 7000,
+      "sector": 40,
+      "position": [
+        -22839.83203125,
+        2.9894731044769287,
+        -7766.66845703125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100432,
+      "class": 7000,
+      "sector": 10,
+      "position": [
+        -26506.5078125,
+        1.6839920282363892,
+        -22043.619140625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100433,
+      "class": 7000,
+      "sector": 60,
+      "position": [
+        7987.64453125,
+        0.24263477325439453,
+        -4191.97705078125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100434,
+      "class": 6000,
+      "sector": 50,
+      "position": [
+        -6052.63330078125,
+        -4.013345241546631,
+        -7081.42578125
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100435,
+      "class": 5000,
+      "sector": 50,
+      "position": [
+        -10843.6455078125,
+        0.0,
+        -7825.52099609375
+      ],
+      "rotation": [
+        -0.34629589319229126,
+        -0.6352486610412598,
+        0.10432421416044235,
+        0.6823890209197998
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100436,
+      "class": 5000,
+      "sector": 10,
+      "position": [
+        -26550.0703125,
+        0.0,
+        -24950.451171875
+      ],
+      "rotation": [
+        0.3335326611995697,
+        0.34418943524360657,
+        -0.6318740248680115,
+        0.6091181039810181
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100437,
+      "class": 5000,
+      "sector": 30,
+      "position": [
+        8383.15234375,
+        0.0,
+        -26816.54296875
+      ],
+      "rotation": [
+        -0.654674768447876,
+        -0.5832063555717468,
+        -0.1425338238477707,
+        0.4592988193035126
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100438,
+      "class": 5000,
+      "sector": 70,
+      "position": [
+        -24268.0390625,
+        0.0,
+        10524.2744140625
+      ],
+      "rotation": [
+        -0.4890192449092865,
+        -0.3935161530971527,
+        -0.4485689401626587,
+        0.6362318992614746
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100439,
+      "class": 5000,
+      "sector": 80,
+      "position": [
+        -9785.1748046875,
+        0.0,
+        9861.650390625
+      ],
+      "rotation": [
+        -0.3259781002998352,
+        -0.6794190406799316,
+        0.10808883607387543,
+        0.6484172344207764
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100440,
+      "class": 5000,
+      "sector": 30,
+      "position": [
+        5601.369140625,
+        0.0,
+        -24726.8828125
+      ],
+      "rotation": [
+        -0.14365524053573608,
+        -0.4414718449115753,
+        0.5618919134140015,
+        0.6846482753753662
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100441,
+      "class": 5000,
+      "sector": 10,
+      "position": [
+        -23647.107421875,
+        0.0,
+        -26801.138671875
+      ],
+      "rotation": [
+        0.15978671610355377,
+        -0.574557900428772,
+        0.3787601590156555,
+        0.707737386226654
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": true,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100442,
+      "class": 15000,
+      "sector": 10,
+      "position": [
+        -21399.95703125,
+        0.0,
+        -25429.283203125
+      ],
+      "rotation": [
+        0.0,
+        0.9241737723350525,
+        0.0,
+        -0.3819722533226013
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100443,
+      "class": 820,
+      "sector": 60,
+      "position": [
+        9682.06640625,
+        0.0,
+        -6260.4833984375
+      ],
+      "rotation": [
+        0.0,
+        0.513194739818573,
+        0.0,
+        -0.8582722544670105
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100444,
+      "class": 16000,
+      "sector": 70,
+      "position": [
+        -26301.052734375,
+        0.0,
+        9629.90234375
+      ],
+      "rotation": [
+        0.0,
+        0.9803174734115601,
+        0.0,
+        0.19742770493030548
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100445,
+      "class": 41003,
+      "sector": 80,
+      "position": [
+        -5577.923828125,
+        0.0,
+        9468.890625
+      ],
+      "rotation": [
+        0.0,
+        0.6805067658424377,
+        0.0,
+        -0.7327418327331543
+      ],
+      "faction": -1,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100446,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8216.900390625,
+        0.0,
+        -4377.39990234375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100447,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8212.400390625,
+        0.0,
+        -4377.39990234375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100448,
+      "class": 16000,
+      "sector": 60,
+      "position": [
+        8218.7998046875,
+        0.0,
+        -4349.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 7000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100449,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -8009.10009765625,
+        0.0,
+        7985.60009765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100450,
+      "class": 16000,
+      "sector": 50,
+      "position": [
+        -8166.3076171875,
+        0.0,
+        -7591.92333984375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100451,
+      "class": 16000,
+      "sector": 80,
+      "position": [
+        -8013.60009765625,
+        0.0,
+        7985.60009765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 4000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100452,
+      "class": 12000,
+      "sector": 70,
+      "position": [
+        -23463.884765625,
+        0.0,
+        7782.40869140625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100453,
+      "class": 41000,
+      "sector": 70,
+      "position": [
+        -23464.005859375,
+        0.0,
+        7771.18896484375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 5000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100454,
+      "class": 13000,
+      "sector": 40,
+      "position": [
+        -24735.29296875,
+        0.0,
+        -5090.25634765625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100455,
+      "class": 41003,
+      "sector": 40,
+      "position": [
+        -24725.373046875,
+        0.0,
+        -5088.6865234375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100456,
+      "class": 13000,
+      "sector": 40,
+      "position": [
+        -24717.9921875,
+        0.0,
+        -5091.21630859375
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    },
+    {
+      "id": 100457,
+      "class": 41003,
+      "sector": 40,
+      "position": [
+        -24733.11328125,
+        0.0,
+        -5088.7265625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "faction": 100000,
+      "rp_provision": 0,
+      "is_cargo": false,
+      "is_debris": false,
+      "is_ship_trader": false
+    }
   ]
 }
