@@ -22,3 +22,6 @@ save['faction_relations'] = reader.readFactionRelations()
 save['faction_opinions'] = reader.readFactionOpinions()
 
 print(save)
+
+with open('data.json', 'w') as f:
+    json.dump(save, f, indent=2)
