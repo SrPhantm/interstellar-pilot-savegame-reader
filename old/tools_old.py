@@ -6,7 +6,7 @@ import struct
 import json
 
 
-class DataConverter:
+class Reader:
     def __init__(self):
         self.data = None
         self.position = 0
