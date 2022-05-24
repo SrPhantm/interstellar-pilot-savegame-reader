@@ -6,8 +6,9 @@ save_file = [
     'saves/051_Pixelfactor_002.dat',
     'saves/AutoSave0.dat',
     'saves/Player_Shuttle.dat',
-    'saves/055_Player_001.dat'
-][3]
+    'saves/055_Player_001.dat',
+    'saves/056_Phantom_014.dat'
+][4]
 
 with open(save_file, 'rb') as f:
     reader = SaveReader(f.read())
@@ -20,9 +21,9 @@ save['factions'] = reader.readFactions()
 save['patrol_paths'] = reader.readPatrolPaths()
 save['faction_relations'] = reader.readFactionRelations()
 save['faction_opinions'] = reader.readFactionOpinions()
-save['units'] = reader.readUnits()
+save['units'] = reader.readAllUnitData()
 
-print(save)
+print(save['units'])
 
 with open('data.json', 'w') as f:
     json.dump(save, f, indent=2)

@@ -61,6 +61,11 @@ class Reader:
         self.position += lenght
         return string
 
+    def readByte(self) -> int:
+        raw = self.data[self.position:self.position+1]
+        self.position += 1
+        return int.from_bytes(raw, 'little')
+
 class SaveReader(Reader):
     def __init__(self, data):
         super().__init__(data)
@@ -315,9 +320,224 @@ class SaveReader(Reader):
         
         return unit
 
-    def readUnits(self) -> list:
+    def _readUnits(self) -> list:
         units = []
         count = self.readInt32()
         for _ in range(count):
             units.append(self._readUnit())
+        return units
+
+    def _readUnitNames(self) -> list:
+        units = []
+        count = self.readInt32()
+        for _ in range(count):
+            unit = {}
+            unit['unit_id'] = self.readInt32()
+            unit['name'] = self.readString()
+            units.append(unit)
+        return units
+
+    def _readUnitFactoryData(self) -> list:
+        data = []
+        count = self.readInt32()
+        for _ in range(count):
+            factory = {}
+            factory['state'] = self.readInt32()
+            factory['progress'] = self.readSingle()
+            data.append(factory)
+        return data
+
+    def _readUnitComponentData(self) -> dict:
+        component_data = {}
+        component_data['unit_id'] = self.readInt32()
+        component_data['ship_name_index'] = self.readInt32()
+        if component_data['ship_name_index'] == -1:
+            component_data['custom_ship_name'] = self.readString()
+        
+        component_data['cargo_capacity'] = self.readSingle()
+        
+        component_data['has_factory'] = self.readBoolean()
+        if component_data['has_factory']:
+            component_data['factories'] = self._readUnitFactoryData()
+
+        component_data['under_construction'] = self.readBoolean()
+        component_data['construction_progress'] = self.readSingle()
+        component_data['station_class_number'] = self.readInt32()
+        return component_data
+    
+    def _readAllUnitComponentData(self) -> dict:
+        all_component_data = []
+        count = self.readInt32()
+        for _ in range(count):
+            all_component_data.append(self._readUnitComponentData())
+        return all_component_data
+
+    def _readModdedComponents(self) -> dict:
+        modded_components = []
+        count = self.readInt32()
+        for _ in range(count):
+            component = {}
+            component['unit_id'] = self.readInt32()
+            component['bay_id'] = self.readInt32()
+            component['component'] = self.readInt32()
+            modded_components.append(component)
+        return modded_components
+
+    def _readCapacitorCharges(self) -> list:
+        charges = []
+        count = self.readInt32()
+        for _ in range(count):
+            charge = {}
+            charge['unit_id'] = self.readInt32()
+            charge['capacitor_charge'] = self.readSingle()
+            charges.append(charge)
+        return charges
+
+    def _readCloakedUnits(self) -> list:
+        units = []
+        count = self.readInt32()
+        for _ in range(count):
+            units.append(self.readInt32())
+        return units
+
+    def _readPoweredDownComponents(self) -> list:
+        components = []
+        count = self.readInt32()
+        for _ in range(count):
+            component = {}
+            component['unit_id'] = self.readInt32()
+            component['bay_id'] = self.readInt32()
+            components.append(component)
+        return components
+
+    def _readUnitEngineTrottles(self) -> list:
+        trottles = []
+        count = self.readInt32()
+        for _ in range(count):
+            trottle = {}
+            trottle['unit_id'] = self.readInt32()
+            trottle['trottle'] = self.readSingle()
+            trottles.append(trottle)
+        return trottles
+
+    def _readUnitComponentCargo(self) -> list:
+        cargos = []
+        count = self.readInt32()
+        for _ in range(count):
+            unit_id = self.readInt32()
+            count = self.readInt32()
+            for _ in range(count):
+                cargo = {}
+                cargo['unit_id'] = unit_id
+                cargo['class'] = self.readInt32()
+                cargo['quantity'] = self.readInt32()
+                cargos.append(cargo)
+        return cargos
+
+    def _readUnitShields(self) -> list:
+        shields = []
+        count = reader.readInt32()
+        for _ in range(count):
+            shield = {}
+            shield['unit_id'] = self.readInt32()
+            shield['data'] = []
+            count = self.readByte()
+            for _ in range(count):
+                sheild_point = {}
+                sheild_point['index'] = self.readByte()
+                sheild_point['health'] = self.readSingle()
+                shield['data'].append(sheild_point)
+            shields.append(shield)
+        return shields
+
+    def _readUnitComponentHealth(self) -> list:
+        healths = []
+        count = self.readInt32()
+        for _ in range(count):
+            health = {}
+            health['unit_id'] = self.readInt32()
+            health['compontent_health'] = []
+            count = self.readInt32()
+            for _ in range(count):
+                compontent = {}
+                compontent['bay_id'] = self.readInt32()
+                compontent['health'] = self.readSingle()
+                health['compontent_health'].append(compontent)
+            healths.append(health)
+        return healths
+
+    def _readActiveUnits(self) -> list:
+        units = []
+        count = self.readInt32()
+        for _ in range(count):
+            unit = {}
+            unit['unit_id'] = self.readInt32()
+            unit['active_data'] = {}
+            unit['active_data']['velocity'] = self.readVector3(),
+            unit['active_data']['currentTurn'] = self.readSingle()
+            units.append(unit)
+        return units
+
+    def _readUnitHealth(self) -> list:
+        units = []
+        count = self.readInt32()
+        for _ in range(count):
+            health = {}
+            health['unit_id'] = self.readInt32()
+            health['destoryed'] = self.readBoolean()
+            health['total_damage_recieved'] = self.readSingle()
+            health['health'] = self.readSingle()
+            units.append(health)
+        return units
+
+    def readAllUnitData(self) -> list:
+        units = self._readUnits()
+        
+        for name in self._readUnitNames():
+            for unit in units:
+                if unit['id'] == name['unit_id']:
+                    unit['name'] = name['name']
+        
+        for component in self._readAllUnitComponentData():
+            for unit in units:
+                if unit['id'] == component['unit_id']:
+                    unit['component_data'] = component.copy()
+                    del unit['component_data']['unit_id']
+                    unit['component_data']['modded'] = []
+                    unit['component_data']['offline'] = []
+                    unit['component_data']['cargo'] = []
+
+        for component in self._readModdedComponents():
+            for unit in units:
+                if unit['id'] == component['unit_id']:
+                    base_component = component.copy()
+                    del base_component['unit_id']
+                    unit['component_data']['modded'].append(base_component)
+
+        for capacitor in self._readCapacitorCharges():
+            for unit in units:
+                if unit['id'] == capacitor['unit_id']:
+                    unit['component_data']['capacitor_charge'] = capacitor['capacitor_charge']
+
+        for unit_id in self._readCloakedUnits():
+            for unit in units:
+                if unit['id'] == unit_id:
+                    unit['component_data']['cloaked'] = True
+        
+        for component in self._readPoweredDownComponents():
+            for unit in units:
+                if unit['id'] == component['unit_id']:
+                    unit['component_data']['offline'].append(component['bay_id'])
+
+        for trottle in self._readUnitEngineTrottles():
+            for unit in units:
+                if unit['id'] == trottle['unit_id']:
+                    unit['component_data']['trottle'] = trottle['trottle']
+
+        for cargo in self._readUnitComponentCargo():
+            for unit in units:
+                if unit['id'] == cargo['unit_id']:
+                    base_cargo = cargo.copy()
+                    del base_cargo['unit_id']
+                    unit['component_data']['cargo'].append(base_cargo)
         return units
