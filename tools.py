@@ -436,7 +436,7 @@ class SaveReader(Reader):
 
     def _readUnitShields(self) -> list:
         shields = []
-        count = reader.readInt32()
+        count = self.readInt32()
         for _ in range(count):
             shield = {}
             shield['unit_id'] = self.readInt32()
@@ -456,13 +456,13 @@ class SaveReader(Reader):
         for _ in range(count):
             health = {}
             health['unit_id'] = self.readInt32()
-            health['compontent_health'] = []
+            health['component_health'] = []
             count = self.readInt32()
             for _ in range(count):
                 compontent = {}
                 compontent['bay_id'] = self.readInt32()
                 compontent['health'] = self.readSingle()
-                health['compontent_health'].append(compontent)
+                health['component_health'].append(compontent)
             healths.append(health)
         return healths
 
@@ -540,4 +540,26 @@ class SaveReader(Reader):
                     base_cargo = cargo.copy()
                     del base_cargo['unit_id']
                     unit['component_data']['cargo'].append(base_cargo)
+
+        for shield in self._readUnitShields():
+            for unit in units:
+                if unit['id'] == shield['unit_id']:
+                    unit['component_data']['shield_data'] = shield['data']
+
+        for component in self._readUnitComponentHealth():
+            for unit in units:
+                if unit['id'] == component['unit_id']:
+                    unit['component_data']['component_health'] = component['component_health']
+
+        for active_unit in self._readActiveUnits():
+            for unit in units:
+                if unit['id'] == active_unit['unit_id']:
+                    unit['component_data']['active_data'] = active_unit['active_data']
+
+        for health_data in self._readUnitHealth():
+            for unit in units:
+                if unit['id'] == health_data['unit_id']:
+                    health = health_data.copy()
+                    del health['unit_id']
+                    unit['health'] = health
         return units

@@ -23,7 +23,7 @@ save['faction_relations'] = reader.readFactionRelations()
 save['faction_opinions'] = reader.readFactionOpinions()
 save['units'] = reader.readAllUnitData()
 
-print(save['units'])
+#print(save['units'])
 
 with open('data.json', 'w') as f:
     json.dump(save, f, indent=2)
